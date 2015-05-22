@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GIF</string>
+    <string name="mode_name">GIF</string>
+    <string name="mode_name_for_download">GIF</string>
+    <string name="mode_desc">Készítsen néhány fényképet, és tekintse meg az animációt</string>
+</resources>

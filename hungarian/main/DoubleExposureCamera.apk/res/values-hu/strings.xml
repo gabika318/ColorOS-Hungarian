@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kettős expozíció</string>
+    <string name="mode_name">Kettős expozíció</string>
+    <string name="capture_tip">Készítsen másik felvételt</string>
+    <string name="mode_name_for_download">Kettős expozíció</string>
+    <string name="mode_desc">Készítsen felvételt kétszer, és automatikusan helyezze egymásra a képeket egyedi, vizuális hatások létrehozásához.</string>
+</resources>

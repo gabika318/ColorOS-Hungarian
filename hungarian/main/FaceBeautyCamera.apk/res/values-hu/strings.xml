@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Szépít</string>
+    <string name="mode_name">Szépít</string>
+    <string name="skin_beauty_entry_on">Bekapcsolás</string>
+    <string name="skin_beauty_entry_off">Bezárás</string>
+    <string name="skin_beauty_title">Beszéljen a telefonhoz a fényképek javításához</string>
+    <string name="pref_voice_skin_beauty_title">Beszéljen a telefonhoz a fényképek javításához</string>
+    <string name="pref_voice_skin_beauty_entry_on">Bekapcsolás</string>
+    <string name="pref_voice_skin_beauty_entry_off">Bezárás</string>
+    <string name="skin_beauty_type_smoothing">Bőrtípus</string>
+    <string name="skin_beauty_type_toning">Bőrszín</string>
+    <string name="skin_beauty_type_slimming">Arcforma</string>
+    <string name="skin_beauty_type_eye">Szemek</string>
+    <string name="skin_beauty_effect_nature">Természetes</string>
+    <string name="skin_beauty_effect_valencia">Valencia</string>
+    <string name="skin_beauty_effect_shallow_memory">Memória</string>
+    <string name="skin_beauty_effect_rainbow">Szivárvány</string>
+    <string name="skin_beauty_effect_japanese">Tokió</string>
+    <string name="skin_beauty_effect_pro">Szakértő</string>
+    <string name="skin_beauty_effect_desert">Sivatag</string>
+    <string name="skin_beauty_effect_black_and_white">Mono</string>
+    <string name="pref_skin_beauty_picturesize_title">Kamera felbontása</string>
+    <string name="pref_skin_beauty_picturesize_entry_1600w">16 millió képpont 4:3</string>
+    <string name="pref_skin_beauty_picturesize_entry_800w">8 millió képpont 4:3</string>
+    <string name="mode_name_for_download">Szépít</string>
+    <string name="mode_desc">Szépítse meg az arcát intelligens módon, több szinten, hogy a lehető legjobban nézzen ki.</string>
+    <string name="skin_beauty_effect_normal">Normál</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Színekben gazdag éjszakai felvétel</string>
+    <string name="mode_name">Színes éjszaka</string>
+    <string name="mode_name_for_download">Színes éjszaka</string>
+    <string name="mode_desc">Gazdag színek nagyszerű éjjeli képek elkészítéséhez</string>
+</resources>

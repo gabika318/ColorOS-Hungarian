@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Audio fotó</string>
+    <string name="mode_name">Audio fotó</string>
+    <string name="audio_recording_tip">Nyomja meg a Rögzítés gombot a 10 másodperces rögzítéshez</string>
+    <string name="audio_camera_tip">A kép elkészítése után azonnal rögzíthet egy hangtöredéket</string>
+    <string name="menu_settings">Settings</string>
+    <string name="mode_name_for_download">Hangos fénykép</string>
+    <string name="mode_desc">Örökítse meg az élet pillanatait hanggal és animációval</string>
+</resources>

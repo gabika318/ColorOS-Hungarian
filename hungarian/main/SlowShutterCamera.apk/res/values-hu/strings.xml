@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hosszú záridő</string>
+    <string name="mode_name">Hosszú záridő</string>
+    <string name="slowShutter_info">Az kioldás után tartsa a telefont stabilan amíg elkészül a fénykép</string>
+    <string name="over_exposure_hint_text">Túlexponálási figyelmeztetés! Kérjük fényképezzen sötétebb környezetben, vagy lassítsa a kioldás sebességét.</string>
+    <string name="mode_name_for_download">Lassú zár</string>
+    <string name="mode_desc">Növelje meg az expozíciós időt a mozgás útjának rögzítéséhez</string>
+</resources>

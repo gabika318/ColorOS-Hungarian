@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ultra nagy felbontás</string>
+    <string name="mode_name">Ultra nagy felbontás</string>
+    <string name="pref_camera_highpicturesize_title">Kamera felbontása</string>
+    <string name="pref_camera_highpicturesize_entry_5000w">50 millió képpont</string>
+    <string name="pref_camera_highpicturesize_entry_2400w">24 millió képpont</string>
+    <string name="pref_camera_highpicturesize_entry_6400w">64 millió képpont</string>
+    <string name="pref_camera_highpicturesize_entry_3200w">32 millió képpont</string>
+    <string name="progress_text">Fénykép létrehozása</string>
+    <string name="mode_name_for_download">Ultra nagy felbontás</string>
+    <string name="mode_desc">Az ultra nagy felbontás mód megmutatja, hogy mit jelent igazán egy részlet.</string>
+</resources>

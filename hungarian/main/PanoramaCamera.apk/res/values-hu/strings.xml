@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Panoráma</string>
+    <string name="mode_name">Panoráma</string>
+    <string name="panorama_ing">Nyomja meg a zárgombot, és mozgassa a telefonját egyenletesen a nyíl felé</string>
+    <string name="auto_panorama_title">Automatikus panoráma</string>
+    <string name="mode_name_for_download">Panoráma</string>
+    <string name="mode_desc">Mentse az összes elemet ultraszéles panorámaképek készítésével.</string>
+</resources>

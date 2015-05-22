@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nyers formátumot készítő kamera</string>
+    <string name="mode_name">RAW</string>
+    <string name="progress_text">Fénykép létrehozása</string>
+    <string name="mode_name_for_download">Nyers</string>
+    <string name="mode_desc">Tárolja az elkészített képek nyers formátumát, hogy a lehető legtöbb lehetőség álljon a rendelkezésére az utólagos feldolgozás során.</string>
+</resources>

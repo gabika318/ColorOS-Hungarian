@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animations_entries">
+        <item>Nincs animáció</item>
+        <item>Részleges animáció</item>
+        <item>Minden animáció</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 mp</item>
+        <item>30 mp</item>
+        <item>1 p</item>
+        <item>2 p</item>
+        <item>10 p</item>
+    </string-array>
+</resources>

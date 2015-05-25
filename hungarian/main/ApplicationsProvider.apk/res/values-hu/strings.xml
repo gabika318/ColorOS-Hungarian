@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Alkalmazás szolgáltatók keresése</string>
+    <string name="search_label">Alkalmazások</string>
+    <string name="application_desc">Alkalmazások</string>
+    <string name="settings_description">Telepített alkalmazások nevei</string>
+</resources>

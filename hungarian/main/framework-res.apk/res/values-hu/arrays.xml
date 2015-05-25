@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Személyes</item>
+        <item>Munka</item>
+        <item>Egyebek</item>
+        <item>Testreszabás</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Csevegő</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Munkahelyi</item>
+        <item>Egyéb</item>
+        <item>Egyéni</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Kezdőlap</item>
+        <item>Telefon</item>
+        <item>Egység</item>
+        <item>Munkahelyi fax</item>
+        <item>Otthoni fax</item>
+        <item>Személyhívó</item>
+        <item>Egyebek</item>
+        <item>Testreszabás</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Otthoni</item>
+        <item>Munkahelyi</item>
+        <item>Egyéb</item>
+        <item>Egyéni</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Helyinformáció megszerzésének megkísérlése</item>
+        <item>Helyinformáció megszerzésének megkísérlése</item>
+        <item>Helyinformáció megszerzésének megkísérlése</item>
+        <item>Rezgés használatának megkísérlése</item>
+        <item>Kapcsolattartók olvasásának megkísérlése</item>
+        <item>Kapcsolattartók módosításának megkísérlése</item>
+        <item>Hívásnapló olvasásának megkísérlése</item>
+        <item>Hívásnapló módosításának megkísérlése</item>
+        <item>Naptár olvasásának megkísérlése</item>
+        <item>Naptár módosításának megkísérlése</item>
+        <item>Helyinformáció megszerzésének megkísérlése</item>
+        <item>Értesítés küldésének megkísérlése</item>
+        <item>Helyinformáció megszerzésének megkísérlése</item>
+        <item>Telefonhívás indításának megkísérlése</item>
+        <item>SMS olvasásának megkísérlése</item>
+        <item>SMS módosításának megkísérlése</item>
+        <item>SMS fogadásának megkísérlése</item>
+        <item>SMS fogadásának megkísérlése</item>
+        <item>MMS fogadásának megkísérlése</item>
+        <item>SMS fogadásának megkísérlése</item>
+        <item>SMS küldésének megkísérlése</item>
+        <item>SMS olvasásának megkísérlése</item>
+        <item>SMS módosításának megkísérlése</item>
+        <item>Beállítások módosításának megkísérlése</item>
+        <item>Fent történő rajzolás megkísérlése</item>
+        <item>Értesítések fogadásának megkísérlése</item>
+        <item>Kamerahozzáférés megkísérlése</item>
+        <item>Hangrögzítés megkísérlése</item>
+        <item>Hanglejátszás megkísérlése</item>
+        <item>Vágólap olvasásának megkísérlése</item>
+        <item>Vágólap módosításának megkísérlése</item>
+        <item>Multimédia gomb vezérlésének megkísérlése</item>
+        <item>Hangfókusz vezérlésének megkísérlése</item>
+        <item>Fő hangerő szabályozásának megkísérlése</item>
+        <item>Beszédhang hangerő szabályozásának megkísérlése</item>
+        <item>Csengőhang hangerő szabályozásának megkísérlése</item>
+        <item>Multimédia hangerő szabályozásának megkísérlése</item>
+        <item>Riasztási hangerő szabályozásának megkísérlése</item>
+        <item>Értesítési hangerő szabályozásának megkísérlése</item>
+        <item>Bluetooth hangerő szabályozásának megkísérlése</item>
+        <item>A telefon alvó állapota leállításának megkísérlése</item>
+        <item>Helyinformáció megszerzésének megkísérlése</item>
+        <item>Helyinformáció megszerzésének megkísérlése</item>
+        <item>A Wi-Fi be-/kikapcsolásának megkísérlése</item>
+        <item>A Bluetooth be-/kikapcsolásának megkísérlése</item>
+        <item>A mobil adatok be-/kikapcsolásának megkísérlése</item>
+        <item>MMS küldésének megkísérlése</item>
+        <item>MMS olvasásának megkísérlése</item>
+        <item>MMS módosításának megkísérlése</item>
+        <item>Automatikus indítás megkísérlése</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Otthoni</item>
+        <item>Munkahelyi</item>
+        <item>Egyéb</item>
+        <item>Egyéni</item>
+    </string-array>
+</resources>

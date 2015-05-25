@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zseblámpa</string>
+    <string name="exit_application_if_repress">Kattintson újra a kilépéshez</string>
+    <string name="unable_to_open_camera">Zseblámpa megnyitása sikertelen</string>
+    <string name="hint">Tartsa lenyomva a Home gombot a kezdőképernyőn a zseblámpa megnyitásához</string>
+    <string name="low_battery">Alacsony a telefon akkufeszültsége, kérjük kapcsolja ki a zseblámpát</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filter_name">
+        <item>Eredeti</item>
+        <item>Klasszikus</item>
+        <item>Retro</item>
+        <item>Fekete-fehér</item>
+        <item>Meleg</item>
+        <item>Film</item>
+        <item>Tükör</item>
+        <item>LOMO</item>
+        <item>Cowboy</item>
+        <item>Homály</item>
+        <item>Alagút</item>
+        <item>Ősi</item>
+    </string-array>
+</resources>

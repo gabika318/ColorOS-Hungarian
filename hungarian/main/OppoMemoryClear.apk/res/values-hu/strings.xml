@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Memória tisztítás</string>
+    <string name="memory_saving_setting">Beállítások</string>
+    <string name="clear_interval">Rendszeres tisztítás</string>
+    <string name="clear_memory_remind">Memória emlékeztetés</string>
+    <string name="clear">Törlés</string>
+    <string name="clear_remind_message">Kérem, törölje a memóriát</string>
+    <string name="clear_memory_remind_details">Emlékeztessen a tisztításra, ha a szabad memória 20% alá csökken.</string>
+    <string name="memory_clear_show">Mindig jelenjen meg a kezdőképernyőn</string>
+    <string name="app_name_main">Memória tisztítás</string>
+    <string name="white_menu">Tiszta engedélyezett lista</string>
+    <string name="memory_used">%1$sfelhasználva</string>
+    <string name="memory_can_use">%1$s használható</string>
+</resources>

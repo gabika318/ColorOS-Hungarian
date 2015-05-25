@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="oppo_select_ringtone_new">
+        <item>Enjoy</item>
+        <item>Soul</item>
+        <item>Colorful life</item>
+        <item>Dancing in the wind</item>
+        <item>Colorful day</item>
+        <item>Afternoon</item>
+        <item>Water</item>
+        <item>Fun</item>
+        <item>Rattled</item>
+        <item>Delight</item>
+        <item>Classic ringtone 1</item>
+        <item>Classic ringtone 2</item>
+        <item>Gentle</item>
+        <item>Cordial</item>
+        <item>Funny</item>
+        <item>Sunrise</item>
+        <item>Fingertips jumping</item>
+        <item>Night</item>
+        <item>Beautiful village</item>
+        <item>Barbara</item>
+        <item>Joy</item>
+        <item>Spar</item>
+        <item>Buzz</item>
+        <item>Echo</item>
+        <item>Xylophone</item>
+        <item>Acoustic guitar</item>
+        <item>Mira</item>
+        <item>Adara</item>
+        <item>Beam</item>
+        <item>Fresh</item>
+        <item>Harp</item>
+        <item>Tambourine</item>
+        <item>Birds</item>
+        <item>Droplets</item>
+        <item>Naughty</item>
+        <item>Sea</item>
+        <item>Forest</item>
+        <item>Bright</item>
+        <item>Far away</item>
+        <item>Joyful</item>
+        <item>Alarm beep</item>
+        <item>Morning</item>
+        <item>Sunny afternoon</item>
+    </string-array>
+    <string-array name="oppo_select_ringtone_old">
+        <item>ringtone_001</item>
+        <item>ringtone_002</item>
+        <item>ringtone_003</item>
+        <item>ringtone_004</item>
+        <item>ringtone_005</item>
+        <item>ringtone_006</item>
+        <item>ringtone_007</item>
+        <item>ringtone_008</item>
+        <item>ringtone_009</item>
+        <item>ringtone_010</item>
+        <item>ringtone_011</item>
+        <item>ringtone_012</item>
+        <item>ringtone_013</item>
+        <item>ringtone_014</item>
+        <item>ringtone_015</item>
+        <item>ringtone_016</item>
+        <item>ringtone_017</item>
+        <item>ringtone_018</item>
+        <item>ringtone_019</item>
+        <item>ringtone_020</item>
+        <item>notification_001</item>
+        <item>notification_002</item>
+        <item>notification_003</item>
+        <item>notification_004</item>
+        <item>notification_005</item>
+        <item>notification_006</item>
+        <item>notification_007</item>
+        <item>notification_008</item>
+        <item>notification_009</item>
+        <item>notification_010</item>
+        <item>notification_011</item>
+        <item>notification_012</item>
+        <item>notification_013</item>
+        <item>notification_014</item>
+        <item>notification_015</item>
+        <item>alarm_001</item>
+        <item>alarm_002</item>
+        <item>alarm_003</item>
+        <item>alarm_004</item>
+        <item>alarm_005</item>
+        <item>alarm_006</item>
+        <item>alarm_007</item>
+        <item>alarm_008</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>Hívás</item>
+        <item>Híváslisták olvasása</item>
+        <item>Névjegyek olvasása</item>
+        <item>Üzenetek olvasása</item>
+        <item>Üzenet küldése</item>
+        <item>MMSküldése</item>
+        <item>Adatkapcsolat be-/kikapcsolása</item>
+        <item>Wi-Fi be-/kikapcsolása</item>
+        <item>Bluetooth be-/kikapcsolása</item>
+        <item>GPS használata(megjegyzés: az alkalmazás más módon is meghatározhatja az tartózkodási helyét)</item>
+        <item>Kamera használata</item>
+        <item>Hangfelvétel készítése, vagy hívás felvétele</item>
+        <item>NFC be-/kikapcsolása</item>
+        <item>Híváslista írása</item>
+        <item>Névjegyek írása, vagy törlése</item>
+        <item>SMS előzmények írása, vagy törlése</item>
+        <item>MMS előzmények írása, vagy törlése</item>
+        <item>MMS előzmények olvasása</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>DE</item>
+        <item>DU</item>
+    </string-array>
+    <string-array name="oppo_oppotime_month_number_chinese">
+        <item>Január</item>
+        <item>Február</item>
+        <item>Március</item>
+        <item>Április</item>
+        <item>Május</item>
+        <item>Június</item>
+        <item>Július</item>
+        <item>Augusztus</item>
+        <item>Szeptember</item>
+        <item>Október</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="oppo_oppotime_month_number_digit">
+        <item>Január</item>
+        <item>Február</item>
+        <item>Március</item>
+        <item>Április</item>
+        <item>Május</item>
+        <item>Június</item>
+        <item>Július</item>
+        <item>Augusztus</item>
+        <item>Szeptember</item>
+        <item>Október</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+</resources>

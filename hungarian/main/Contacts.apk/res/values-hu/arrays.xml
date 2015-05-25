@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="intelligent_dial_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="display_num">
+        <item>Bezárás</item>
+        <item>Névjegyek megjelenítése</item>
+        <item>Kedvencek megjelenítése</item>
+    </string-array>
+    <string-array name="display_num_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="type_press_sound">
+        <item>Típus 1</item>
+        <item>Típus2</item>
+    </string-array>
+    <string-array name="type_press_sound_Values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="type_ip_dial">
+        <item>"'12593'"</item>
+        <item>"'17911'"</item>
+        <item>"'17951'"</item>
+        <item>"'Ki'"</item>
+    </string-array>
+    <string-array name="type_ip_dial_Values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="dayofweek">
+        <item>Vas</item>
+        <item>Hét</item>
+        <item>Ked</item>
+        <item>Sze</item>
+        <item>Csü</item>
+        <item>Pén</item>
+        <item>Szo</item>
+        <item>Tegnap</item>
+    </string-array>
+    <string-array name="oppo_replace_name_dialog_value">
+        <item>Hozzáadás mégis</item>
+        <item>Létező névjegy cseréje</item>
+    </string-array>
+    <string-array name="oppo_replace_name_dialog_summary">
+        <item>Összes másolása és duplázott névjegyek megtartása</item>
+        <item>Összes másolása és duplázott névjegyek helyettesítése</item>
+        <item>Duplázott névjegyek kihagyása másolás közben</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>Szervezet</item>
+        <item>Jegyzet</item>
+    </string-array>
+</resources>

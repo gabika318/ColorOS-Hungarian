@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PreventMode</string>
+    <string name="title">Hibás műveletek megakadályozása</string>
+    <string name="top_tag">Kérjük ne takarja le a kijelző felső részét</string>
+    <string name="boottom_tag">A vissza gomb és a hangerő felfelé gomb egyszerre történő megnyomásával kiléphet erőltetetten</string>
+</resources>

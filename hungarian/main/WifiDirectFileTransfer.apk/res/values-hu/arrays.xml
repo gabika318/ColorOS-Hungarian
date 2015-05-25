@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_p2p_status">
+        <item>Kapcsolva</item>
+        <item>Meghívott</item>
+        <item>Sikertelen</item>
+        <item>Rendelkezésre álló</item>
+        <item>Tartományon kívül</item>
+    </string-array>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Forgóajtó zárképernyő</string>
+    <string name="unlockname">ColorOSLockScreenDemo</string>
+    <string name="unlockAuthor">Forgóajtó zárképernyő</string>
+    <string name="unlockVersion">1.0</string>
+    <string name="unlockDate">2012-05-17</string>
+    <string name="unlockResolution">854*480</string>
+    <string name="discription">Forgóajtó zárképernyő</string>
+    <string name="lockscreen_charging_hint">Töltés</string>
+    <string name="lockscreen_charged">Feltöltve</string>
+    <string name="lockscreen_sound_on_label">Hang be</string>
+    <string name="lockscreen_sound_off_label">Hang kikapcsolva</string>
+    <string name="am">De.</string>
+    <string name="pm">Du.</string>
+    <string name="full_wday_month_day_no_year">EEEE, MMMM d</string>
+    <string name="noservice">Nincs szolgáltatás</string>
+    <string name="charge_hint_low1">A környezeti hőmérséklet alacsony</string>
+    <string name="charge_hint_high1">A környezeti hőmérséklet magas</string>
+    <string name="charge_extra">Belépés az általános töltési módba biztonsági okokból</string>
+    <string name="hunderd_percent">100%</string>
+</resources>

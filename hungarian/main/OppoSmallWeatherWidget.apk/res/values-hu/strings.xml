@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Időjárás (widget)</string>
+    <string name="appwidget_name">Időjárás</string>
+    <string name="no_city">Nem érhetők el adatok</string>
+    <string name="no_data">Nem érhetők el adatok</string>
+    <string name="local_weather">Saját pozíció</string>
+    <string name="update_success">Időjárásjelentés sikeresen frissítve</string>
+    <string name="update_failed">Időjárás adatok frissítése sikertelen</string>
+    <string name="am">AM</string>
+    <string name="pm">PM</string>
+    <string name="monday">Hét</string>
+    <string name="tuesday">Ked</string>
+    <string name="wednesday">Sze</string>
+    <string name="thursday">Csü</string>
+    <string name="friday">Pén</string>
+    <string name="saturday">Szo</string>
+    <string name="sunday">Vas</string>
+    <string name="comma">,</string>
+    <string name="interval">~</string>
+</resources>

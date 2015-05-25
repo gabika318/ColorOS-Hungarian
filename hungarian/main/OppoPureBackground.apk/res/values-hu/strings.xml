@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pure_background_title">Adattakarékosság</string>
+    <string name="pure_background_title_tips_on">A háttérfolyamatok leállítása be van kapcsolva. Érintsen a fenti ikonra a kikapcsoláshoz</string>
+    <string name="pure_background_title_tips_off">A háttérfolyamatok leállítása ki van kapcsolva. Érintsen a fenti ikonra a bekapcsoláshoz</string>
+    <string name="pure_background_title_onof">Adattakarékosság utasítások</string>
+    <string name="pure_background_detail_on">Külső alkalmazások háttérbe helyezése és lefagyasztása leállítja azok adathasználatát, illetve áramfelvételét és a processzor erőforrásainak igénybe vételét, ami hatékonyan akadályozhatja meg, hogy a kártevő szoftverek levélszemétbe való üzeneteket küldjenek ki és adatokat forgalmazzanak anélkül, hogy tudna róla. Azt javasoljuk, hogy felfüggesztés nélkül lépjen ki az olyan csevegési alkalmazásokból, mint például a QQ, a WeiXin, ellenkező esetben előfordulhat, hogy nem kap időben csevegési üzeneteket.</string>
+    <string name="pure_background_detail_off">Az adattakarékosság nincs bekapcsolva, ajánlott bekapcsolni. Az adattakarékosság bekapcsolásával hatékonyan meg lehet akadályozni a kártékony alkalmazások háttárben történő működését amik adatforgalmat generálhatnak, vagy spam üzeneteket küldhetnek szét.</string>
+    <string name="pure_background_trust_app">Megbízott alkalmazások</string>
+    <string name="pure_background_trust_app_set">Alkalmazások hozzáadása</string>
+    <string name="pure_background_trust_app_addmore">Hozzáadás</string>
+    <string name="pure_background_applist_empty">Nincs harmadik féltől származó alkalmazás telepítve</string>
+    <string name="pure_background_whitelist_empty">Egy alkalmazásnak sincs megengedve a háttérben történő működés</string>
+    <string name="pure_background_bgflow_ranking">Háttérben történő adathasználat helyezési lista</string>
+    <string name="pure_background_bgflow_ranking_empty">A háttérben történő adathasználat helyezési listája üres.</string>
+    <string name="pure_background_bgflow_ranking_more">Továbbiak...</string>
+    <string name="pure_background_bgapp_manager_title">Háttér alkalmazás kezelő</string>
+    <string name="pure_background_bgapp_manager_info">Az üzenetek késve érkezhetnek meg, ha a kommunikációt folytató alkalmazások, mint a Facebook és a Twitter, nem tudnak futni a háttérben.</string>
+    <string name="pure_background_bgapp_manager_allow">Háttérben futás engedélyezése</string>
+    <string name="pure_background_bgapp_manager_froze">Szüneteltetés ha háttérbe kerül</string>
+    <string name="pure_background_bgapp_traffic">Adatok háttérben történő használata:</string>
+    <string name="pure_background_bgapp_no_traffic">Nem történik adathasználat a háttérben</string>
+    <string name="pure_background_flowrank_reset">Adatfelhasználási rangsor visszaállítása</string>
+    <string name="pure_background_flowrank_reset_time">Utolsó visszaállítás</string>
+    <string name="oppo_purebackground_menu_left">Alkalmazások hozzáadása</string>
+    <string name="oppo_purebackground_menu_right">Adatok háttérben történő használata</string>
+    <string name="pure_background_main_state_info_on">Energiatakarékosság és interferencia megakadályozása</string>
+    <string name="pure_background_main_state_info_off">Ajánlott engedélyezni az energiatakarékosságot és az interferencia megakadályozását</string>
+</resources>

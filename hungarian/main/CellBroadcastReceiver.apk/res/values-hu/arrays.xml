@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cb_receive_channel_selection_names">
+        <item>Összes csatorna</item>
+        <item>Egyéni csatornák</item>
+    </string-array>
+    <string-array name="alert_sound_duration_entries">
+        <item>2 másodperc</item>
+        <item>4 másodperc</item>
+        <item>6 másodperc</item>
+        <item>8 másodperc</item>
+        <item>10 másodperc</item>
+    </string-array>
+    <string-array name="alert_reminder_interval_entries">
+        <item>Egyszer</item>
+        <item>2 percenként</item>
+        <item>15 percenként</item>
+        <item>Kikapcsolva</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Angol</item>
+        <item>francia</item>
+        <item>spanyol</item>
+        <item>Japán</item>
+        <item>koreai</item>
+        <item>kínai</item>
+        <item>Héber</item>
+    </string-array>
+    <string-array name="list_language_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+</resources>

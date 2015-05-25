@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Videó képernyővédő</string>
+    <string name="need_to_configure">Nincsen kiválasztva videó.</string>
+    <string name="storage_unmounted">A tárhely nem elérhető.</string>
+    <string name="videoview_error_title">A videót nem lehet lejátszani</string>
+    <string name="videoview_error_text_unknown">Sajnos a videót nem lehetett lejátszani.</string>
+</resources>

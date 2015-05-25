@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="inlay_wallpapers_name">
+        <item>A bejáró</item>
+        <item>Nyugodt kék</item>
+        <item>Csillogó sarki fény</item>
+        <item>Fák a hóban</item>
+        <item>Világítótorony</item>
+        <item>Aranyhomok</item>
+        <item>Amerikai báj</item>
+        <item>Lótuszok</item>
+        <item>Édes harmat</item>
+        <item>Bolivar</item>
+        <item>Pompás térkép</item>
+        <item>Fantáziakék</item>
+    </string-array>
+</resources>

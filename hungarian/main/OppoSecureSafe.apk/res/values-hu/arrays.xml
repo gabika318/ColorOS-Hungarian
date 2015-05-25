@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="oppo_add_blacklist_dialog">
+        <item>Szám megadása</item>
+        <item>Híváslista</item>
+        <item>Telefonszám keresése</item>
+    </string-array>
+    <string-array name="responds_to_private_sms">
+        <item>Némít</item>
+        <item>Rezgés</item>
+        <item>Alapértelmezett</item>
+    </string-array>
+    <string-array name="responde_to_private_contact_call">
+        <item>Némít</item>
+        <item>Hívás befejezése</item>
+        <item>Gyors válasz</item>
+        <item>Rezgés</item>
+        <item>Alapértelmezett</item>
+    </string-array>
+    <string-array name="dayofweek">
+        <item>Vas</item>
+        <item>Hét</item>
+        <item>Ked</item>
+        <item>Sze</item>
+        <item>Csü</item>
+        <item>Pén</item>
+        <item>Szo</item>
+    </string-array>
+    <string-array name="startup_select_array">
+        <item>Automatikus futtatás engedélyezése</item>
+        <item>Automatikus futtatás letiltása</item>
+    </string-array>
+</resources>

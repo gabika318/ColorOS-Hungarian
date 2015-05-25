@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="avatar_operator">
+        <item>Fényképek készítése</item>
+        <item>Választás a fényképek közül</item>
+        <item>Kiválasztott fényképek törlése</item>
+    </string-array>
+    <string-array name="security_questions_cn">
+        <item>Apja neve?</item>
+        <item>Anyja neve?</item>
+        <item>Hol született?</item>
+        <item>Hitvese neve neve?</item>
+        <item>Általános iskolája neve?</item>
+        <item>Legjobb gyerekkori barátja?</item>
+        <item>Kedvenc általános iskolás tanárja?</item>
+        <item>Legjobb egyetemi/főiskolás barátja?</item>
+        <item>Mi a diák/dolgozó igazolványszáma?</item>
+        <item>Mi az első telefonszáma utolsó négy száma?</item>
+        <item>Mi az autója rendszámtáblája?</item>
+    </string-array>
+    <string-array name="constellations">
+        <item>Vízöntő</item>
+        <item>Halak</item>
+        <item>Kos</item>
+        <item>Bika</item>
+        <item>Ikrek</item>
+        <item>Rák</item>
+        <item>Oroszlán</item>
+        <item>Szűz</item>
+        <item>Mérleg</item>
+        <item>Skorpió</item>
+        <item>Nyilas</item>
+        <item>Bak</item>
+    </string-array>
+</resources>

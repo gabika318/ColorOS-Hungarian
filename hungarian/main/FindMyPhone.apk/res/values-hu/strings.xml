@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Telefon keresése</string>
+    <string name="btn_call">Hívás</string>
+    <string name="btn_cancel">Mégse</string>
+    <string name="title">Telefon keresése</string>
+    <string name="sms_content">"Tisztelt Felhasználó! A telefonjában  _  lévő SIM kártya cseréje megtörtént. Ha nem hajtotta végre ezt a műveletet, ellenőrizze, hogy elveszett-e a telefon. Bejelentkezhet a findphone.oppo.com oldalon, hogy megpróbálja meghatározni a telefon aktuális helyét."</string>
+    <string name="sim_changed_notify_title">Állítsa be a hozzárendelt számot</string>
+    <string name="sim_changed_notify_summary">A SIM kártya cseréjét követően üzenet érkezik a hozzárendelt telefonszámára</string>
+    <string name="find_phone_assign_number_hint">Hozzárendelt szám:</string>
+    <string name="find_phone_cancel_btn">"Mégse "</string>
+    <string name="find_phone_close_btn">"Bezárás "</string>
+    <string name="find_phone_title">Telefon keresése</string>
+    <string name="find_phone_close_confirm">Kikapcsolt állapotban nem működik a telefon keresés funkció.</string>
+    <string name="find_phone_summary">Engedélyezze a telefonjának helymeghatározását a térképen, távolról zárolja a képernyőt, és törölje az adatokat.</string>
+    <string name="find_phone_visit_web">● A telefon elveszítésekor lépjen be a findphone.oppo.com oldalra, és próbálja zárolni a képernyőt, törölni a fontos adatokat és megkeresni a telefont.</string>
+    <string name="find_phone_alter_btn">"Módosítás "</string>
+    <string name="find_phone_disable_btn">"Tiltás "</string>
+    <string name="find_phone_enable_btn">"Engedélyezés "</string>
+    <string name="find_phone_input_error_tip">Kérjük adjon meg érvényes telefonszámot!</string>
+    <string name="find_phone_open_no_network_message">Nem csatlakozik hálózathoz, a telefon keresés szolgáltatás nem elérhető.</string>
+    <string name="find_phone_open_push_disable_message">A leküldéses (push) értesítések nincsenek engedélyezve. Nem lehet használni a telefon keresés szolgáltatást.</string>
+    <string name="find_phone_close_no_network_message">Nem csatlakozik hálózathoz, a telefon keresés szolgáltatás nem elérhető. Kérjük csatlakozzon hálózathoz.</string>
+    <string name="find_phone_close_push_disable_message">A leküldéses (push) értesítések nincsenek engedélyezve. Nem lehet használni a telefon keresés szolgáltatást. Kérjük engedélyezze a leküldéses értesítéseket.</string>
+    <string name="find_phone_password_verify_dialog_title">Telefon keresés letiltása</string>
+    <string name="find_phone_password_verify_dialog_account">Jelenlegi fiók:</string>
+    <string name="find_phone_password_verify_dialog_message_password_error">Hibás jelszó, kérjük adja meg újra</string>
+    <string name="find_phone_password_verify_dialog_message_net_error">Hálózati hiba, kérjük vizsgálja meg a hálózati csatlakozást!</string>
+    <string name="find_phone_password_verify_dialog_edittext_message">Kérjük adja meg a jelszavát</string>
+    <string name="find_phone_password_verify_dialog_format_error">Kérjük adjon meg egy jelszót a helyes formátumban</string>
+    <string name="find_phone_password_verify_dialog_server_error">Szerver hiba, kérjük próbálja újra később.</string>
+    <string name="find_phone_password_verify_dialog_retry_restrict">Kérjük próbálja újra később!</string>
+    <string name="find_phone_take_photo_message">Sajnos már 5 alkalommal hibás jelszót adott meg. Kérjük próbálja újra később!</string>
+    <string name="find_phone_instruction">Utasítások</string>
+    <string name="find_phone_is_opening">Megnyitás, kérjük váron...</string>
+    <string name="login_filed">Bejelentkezés sikertelen, próbálja újra</string>
+    <string name="open_failed">Megnyitás sikertelen, próbálja újra</string>
+    <string name="try_again">"Újrapróbálás "</string>
+    <string name="cancel">"Mégse "</string>
+    <string name="imei_is_null">A készülék nem rendelkezik IMEI számmal, a telefon keresés funkció le van tiltva</string>
+    <string name="account_name_text">Bejelentkezés</string>
+    <string name="notification">Tippek</string>
+    <string name="find_phone_is_on">A telefon keresés funkció be van kapcsolva</string>
+    <string name="find_phone_is_off">A telefon keresés funkció ki van kapcsolva</string>
+    <string name="btn_register">Regisztráció</string>
+    <string name="hint_main_page">"
+● Engedélyezze a Telefon keresését, és biztosítsa a hálózati kapcsolat normál állapotát.
+
+● A telefon elveszítésekor lépjen be a   findphone.oppo.com   oldalra, és próbálja zárolni a képernyőt, törölni a fontos adatokat és megkeresni a telefont."</string>
+    <string name="orientate_phone">Telefonjának helymeghatározása a térképen</string>
+    <string name="remote_control">Képernyő zárolása és adatok távoli törlése</string>
+    <string name="take_photo">Automatikus rögzítés és fénykép feltöltése 5 sikertelen feloldási kísérlet után (elülső kamera funkció szükséges)</string>
+    <string name="change_sim">A SIM kártya cseréje után egy üzenet érkezik a hozzárendelt telefonszámára</string>
+    <string name="open_find_phone">A „Telefon keresése” funkció engedélyezése</string>
+    <string name="use_more_function">A Telefon keresése további funkcióinak kipróbálásához lépjen be a webhelyünkre.</string>
+    <string name="usr_more_function_url">findphone.oppo.com</string>
+    <string name="sweet_hint">(Stabil hálózati kapcsolattal kell rendelkeznie a „Telefon keresése” funkció hatékony működése érdekében.)</string>
+    <string name="set">"Engedélyezés "</string>
+    <string name="ok">"OK "</string>
+    <string name="confirm">"Megerősítés "</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ColorOS bőr tok</string>
+    <string name="description_target_unlock">description_target_unlock</string>
+    <string name="description_target_camera">description_target_camera</string>
+    <string name="description_direction_right">description_direction_right</string>
+    <string name="description_direction_left">description_direction_left</string>
+    <string name="Monday">Hét</string>
+    <string name="Tuesday">Ked</string>
+    <string name="Wednesday">Sze</string>
+    <string name="Thursday">Csü</string>
+    <string name="Friday">Pén</string>
+    <string name="Saturday">Szo</string>
+    <string name="Sunday">Vas</string>
+    <string name="day">Nap</string>
+    <string name="month">Hónap</string>
+    <string name="answer_call">Fogadás</string>
+    <string name="end_call">Hívás befejezése</string>
+    <string name="is_dialing">Tárcsázás</string>
+    <string name="is_ending">Megszakítás</string>
+    <string name="call_ended">A hívás befejeződött</string>
+    <string name="oppo_UnknowCity">-</string>
+    <string name="oppo_local_number">Helyi szám</string>
+    <string name="oppo_special_number">Szolgáltatás száma</string>
+    <string name="emergency_call_dialog_number_for_display">Segélyhívó szám</string>
+    <string name="call_hold">Fel van függesztve a hívása ezzel: %1$s</string>
+    <string name="slide_end_call">Csúsztassa ki a körből a hívás befejezéséhez</string>
+    <string name="exit_window_mode">Érintsen ide a kis ablakból történő kilépéshez</string>
+    <string name="no_music">0 dal</string>
+    <string name="ViewContentDescription">oppoLeather</string>
+    <string name="null_queue_toast">Jelenleg nincs lejátszható zene!</string>
+</resources>

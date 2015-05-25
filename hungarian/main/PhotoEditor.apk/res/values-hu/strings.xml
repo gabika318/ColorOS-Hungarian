@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photoeditor_name">Photo Studio</string>
+    <string name="loading_failure">Nem sikerült betölteni a fotót</string>
+    <string name="saving_failure">A szerkesztett fotót nem tudtuk menteni</string>
+    <string name="photo_saved">A Szerkesztett fotót %s mappába mentettük</string>
+    <string name="discard_unsaved_photo">Elveti a nem mentett módosításokat?</string>
+    <string name="yes">Igen</string>
+    <string name="save">MENTÉS</string>
+    <string name="autofix">Autom. javítás</string>
+    <string name="crop">Körbevágás</string>
+    <string name="crossprocess">Áttűnés</string>
+    <string name="documentary">Dokumentumfilm</string>
+    <string name="doodle">Doodle</string>
+    <string name="duotone">Kéttónusú</string>
+    <string name="facelift">Arcfény</string>
+    <string name="facetan">Arcszín</string>
+    <string name="filllight">Háttérfény</string>
+    <string name="fisheye">Halszem</string>
+    <string name="flip">Tükrözés</string>
+    <string name="grain">Filmszemcse</string>
+    <string name="grayscale">Fekete-fehér</string>
+    <string name="highlight">Kiemelt részek</string>
+    <string name="lomoish">Lomo</string>
+    <string name="negative">Negatív</string>
+    <string name="posterize">Poszterizálás</string>
+    <string name="redeye">Vörösszem</string>
+    <string name="rotate">Forgatás</string>
+    <string name="saturation">Telítettség</string>
+    <string name="sepia">Szépia</string>
+    <string name="shadow">Árnyékok</string>
+    <string name="sharpen">Élesítés</string>
+    <string name="straighten">Kiegyenesítés</string>
+    <string name="temperature">Színhőmérsékl.</string>
+    <string name="tint">Árnyalás</string>
+    <string name="vignette">Vignetta</string>
+    <string name="crop_tooltip">Húzza a jelölőket a fotó vágásához</string>
+    <string name="doodle_tooltip">Rajzoljon a fotóra embléma létrehozásához</string>
+    <string name="flip_tooltip">Húzza a fotót annak tükrözéséhez</string>
+    <string name="redeye_tooltip">Vörös szemek eltávolítása megérintéssel</string>
+    <string name="rotate_tooltip">Húzza a fényképet annak forgatásához</string>
+    <string name="straighten_tooltip">Húzza a fényképet annak kiegyenesítéséhez</string>
+</resources>

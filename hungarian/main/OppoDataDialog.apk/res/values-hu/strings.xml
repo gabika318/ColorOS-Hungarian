@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DataDialog</string>
+    <string name="dialog_content">Adatkapcsolat megváltoztatása az MMS átvitelhez?</string>
+    <string name="dialog_title">Adatkapcsolat megváltoztatása</string>
+    <string name="dialog_continue">Folytatás</string>
+    <string name="dialog_cancel">Mégse</string>
+    <string name="wifi_failover_gprs_content">Nincs elérhető Wi-Fi hálózat. Csatlakozik mobilhálózathoz?</string>
+    <string name="safe_warning">Biztonsági figyelmeztetés</string>
+    <string name="safe_warning_wifi">Nincs Wi-Fi kapcsolat. Ha továbbra is a mobilinternetet használja, ez adatforgalmat fog generálni. Folytatja?</string>
+    <string name="open_hint">Beállíthatja a „Biztonság - Engedélyek - Alkalmazás engedélyek” alatt is</string>
+    <string name="notask">Soha ne kérdezzen</string>
+</resources>

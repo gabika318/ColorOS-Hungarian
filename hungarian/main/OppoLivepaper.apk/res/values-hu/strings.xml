@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete_confirm">Biztos törli?</string>
+    <string name="confirm">Törlés</string>
+    <string name="config">Beállítások</string>
+    <string name="livepaper_using">Ez az élő háttérkép használatban van, nem lehet eltávolítani!</string>
+    <string name="cancel">Mégse</string>
+    <string name="apply">Alkalmaz</string>
+    <string name="delete">Törlés</string>
+    <string name="live_wallpaper_loading">Élő háttérkép tölt...</string>
+    <string name="livepaper">Élő háttérképek</string>
+    <string name="sign_use">Használatban van</string>
+    <string name="more_livepaper">Több élő háttérkép</string>
+    <string name="online">Online</string>
+    <string name="pref_wallpaper_text">Tapéta kiválasztása</string>
+    <string name="color_wallpaper_settings_title">Háttérképek és képernyőzár</string>
+    <string name="color_wallpaper_select_title">Háttérkép</string>
+    <string name="color_wallpaper_select_title_wallpaper">Statikus tapéták</string>
+    <string name="color_wallpaper_select_title_photos">Albumok</string>
+    <string name="double_finger_control_blur_title">Dupla koppintásos elmosódás hatás asztali háttérképeknek</string>
+    <string name="double_finger_control_blur_summary">Dupla koppintással az asztal öres területére bekapcsolhatja a háttérkép elmosódását</string>
+    <string name="color_wallpaper_select_title_live_wallpaper">Élő háttérképek</string>
+    <string name="color_screenlock_select_title">A képernyő zárolása</string>
+    <string name="color_screenlock_select_type">Képernyőzár stílusok</string>
+    <string name="color_wallpaper_select_title_other">Harmadik fél tapétája</string>
+    <string name="activity_not_found">Alkalmazás nincs telepítve</string>
+    <string name="live_wallpaper_picker_title">Élő háttérkép kiválasztása</string>
+</resources>

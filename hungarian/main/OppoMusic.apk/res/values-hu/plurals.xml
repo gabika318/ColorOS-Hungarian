@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nsongs">
+        <item quantity="other">%d dal</item>
+    </plurals>
+    <plurals name="Nsongscomp">
+        <item quantity="other">%2$d / %1$d dal</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%d album</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="StopTime">
+        <item quantity="other">%d perc</item>
+    </plurals>
+    <plurals name="StopPlayTime">
+        <item quantity="other">szünet %d perc múlva</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%d dal hozáadva a lejátszási listához</item>
+        <item quantity="one">1 dal hozzáadva a lejátszási listához</item>
+    </plurals>
+    <plurals name="NNNtrackstobedeleted">
+        <item quantity="other">%d dal törlése</item>
+        <item quantity="one">Biztosan törli?</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">%dTörölt sáv</item>
+        <item quantity="one">Törölt sáv</item>
+    </plurals>
+    <plurals name="songs_count">
+        <item quantity="other">%d dal összesen</item>
+        <item quantity="one">Összesen 1 dal</item>
+    </plurals>
+</resources>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="quick_share_spinner_app_type">
+        <item>Helyi alkalmazások</item>
+        <item>Google Play</item>
+    </string-array>
+    <string-array name="quick_share_spinner_google_play_content_type">
+        <item>Csomag neve</item>
+        <item>Kiadó</item>
+        <item>Alkalmazás neve</item>
+    </string-array>
+    <string-array name="quick_share_wifi_secrity">
+        <item>WEP</item>
+        <item>WPA/WPA2</item>
+        <item>NONE</item>
+    </string-array>
+    <string-array name="more_fun_loverwords_size">
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="more_fun_loverwords_color">
+        <item>SÖTSZÜRKE</item>
+        <item>FEKETE</item>
+        <item>SZÜRKE</item>
+        <item>VILSZÜRKE</item>
+        <item>FEHÉR</item>
+        <item>PIROS</item>
+        <item>ZÖLD</item>
+        <item>SÁRGA</item>
+        <item>TÜRKIZ</item>
+        <item>MAGENTA</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>[开心]</item>
+        <item>[开心]</item>
+        <item>[忧伤]</item>
+        <item>[眨眼]</item>
+        <item>[吐舌]</item>
+        <item>[惊讶]</item>
+        <item>[亲吻]</item>
+        <item>[不知所云]</item>
+        <item>[尴尬]</item>
+        <item>[哭泣]</item>
+        <item>[大笑]</item>
+        <item>[困惑]</item>
+        <item>[闭嘴]</item>
+        <item>[困]</item>
+        <item>[坏笑]</item>
+        <item>[好色]</item>
+        <item>[木讷]</item>
+        <item>[害羞]</item>
+        <item>[微笑]</item>
+        <item>[无聊]</item>
+        <item>[愤怒]</item>
+        <item>[男孩]</item>
+        <item>[女孩]</item>
+        <item>[外星人]</item>
+        <item>[恶魔]</item>
+        <item>[幽灵]</item>
+        <item>[真棒]</item>
+        <item>[肌肉]</item>
+        <item>[合掌]</item>
+        <item>[牵手]</item>
+        <item>[相爱]</item>
+        <item>[薯条]</item>
+        <item>[汉堡]</item>
+        <item>[便当]</item>
+        <item>[米饭]</item>
+        <item>[鸡蛋]</item>
+        <item>[西瓜]</item>
+        <item>[苹果]</item>
+        <item>[橙子]</item>
+        <item>[茄子]</item>
+        <item>[草莓]</item>
+        <item>[小狗]</item>
+        <item>[小鸡]</item>
+        <item>[小猪]</item>
+        <item>[鲸鱼]</item>
+        <item>[章鱼]</item>
+        <item>[火箭]</item>
+        <item>[飞机]</item>
+        <item>[火车]</item>
+        <item>[汽车]</item>
+        <item>[自行车]</item>
+        <item>[富士山]</item>
+        <item>[日出]</item>
+        <item>[烟花]</item>
+        <item>[轮船]</item>
+        <item>[过山车]</item>
+        <item>[便利店]</item>
+        <item>[教堂]</item>
+        <item>[学校]</item>
+        <item>[医院]</item>
+        <item>[银行]</item>
+    </string-array>
+    <string-array name="default_gif_smiley_texts">
+        <item>[得意]</item>
+        <item>[晕了]</item>
+        <item>[不是吧]</item>
+        <item>[财迷]</item>
+        <item>[美味]</item>
+        <item>[洗澡]</item>
+        <item>[很衰]</item>
+        <item>[流泪]</item>
+        <item>[加油]</item>
+        <item>[吓]</item>
+        <item>[无所谓]</item>
+        <item>[扔西瓜玩]</item>
+        <item>[感动]</item>
+        <item>[很汗]</item>
+        <item>[很寒]</item>
+        <item>[媚眼]</item>
+        <item>[委屈]</item>
+        <item>[祝福]</item>
+        <item>[唱歌]</item>
+        <item>[哼！]</item>
+        <item>[拜拜]</item>
+        <item>[咦]</item>
+        <item>[呃。。。]</item>
+        <item>[奋斗]</item>
+        <item>[变魔术]</item>
+        <item>[发抖]</item>
+        <item>[发怒]</item>
+        <item>[喜欢]</item>
+        <item>[睡觉]</item>
+        <item>[偷笑]</item>
+        <item>[做鬼脸]</item>
+        <item>[饿啊]</item>
+    </string-array>
+</resources>

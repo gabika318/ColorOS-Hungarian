@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Naptár (widget)</string>
+    <string name="widget_name">Naptár</string>
+    <string name="chinese_chushi">初十</string>
+    <string name="nongli">Holdnaptár</string>
+    <string name="format_year_month_day">MMMM d, yyyy</string>
+    <string name="chinese_year">Év</string>
+    <string name="event_notification_default">Nincs értesítés</string>
+    <string name="event_notification_more">Van értesítés</string>
+</resources>

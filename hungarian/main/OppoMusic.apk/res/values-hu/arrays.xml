@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="eq_preset_entries">
+        <item>Alapértelmezett</item>
+        <item>Off</item>
+        <item>Rock</item>
+        <item>Jazz</item>
+        <item>Pop</item>
+        <item>Klasszikus</item>
+        <item>Country zene</item>
+        <item>Dance</item>
+        <item>Metál</item>
+        <item>R&amp;B</item>
+        <item>Hip Hop</item>
+        <item>Blues</item>
+        <item>Electromos zene</item>
+        <item>Modern város</item>
+        <item>Podcast(beszéd)</item>
+        <item>Latin</item>
+        <item>Dzsungel</item>
+        <item>Városi zene</item>
+        <item>Egyéni</item>
+    </string-array>
+    <string-array name="repeat_modes_entries">
+        <item>Ki</item>
+        <item>Egy dal ismétlése</item>
+        <item>Összes ismétlése</item>
+    </string-array>
+    <string-array name="play_modes_entries">
+        <item>Sorrend</item>
+        <item>Egy dal ismétlése</item>
+        <item>Összes ismétlése</item>
+        <item>Véletlenszerű</item>
+    </string-array>
+    <string-array name="stop_playing_entries">
+        <item>Leállítás kézzel</item>
+        <item>30 perc</item>
+        <item>60 perc</item>
+        <item>90 perc</item>
+    </string-array>
+    <string-array name="skin_entries">
+        <item>Megjelenítés1</item>
+        <item>Megjelenítés2</item>
+        <item>Megjelenítés3</item>
+    </string-array>
+    <string-array name="skin_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="speaker_mode_entries">
+        <item>Ki</item>
+        <item>Dolby hatás</item>
+    </string-array>
+    <string-array name="headset_sound_effect_entries">
+        <item>Közeli</item>
+        <item>Dolby hatás</item>
+        <item>Dirac HD hang</item>
+    </string-array>
+    <string-array name="headset_sound_effect_entries_nodolby">
+        <item>Ki</item>
+        <item>Dirac HD Sound</item>
+    </string-array>
+    <string-array name="pref_natural_bass_entries">
+        <item>Ki</item>
+        <item>Normális</item>
+        <item>Közepes</item>
+        <item>Erős</item>
+    </string-array>
+    <string-array name="pref_hfe_entries">
+        <item>Ki</item>
+        <item>Normális</item>
+        <item>Közepes</item>
+        <item>Erős</item>
+    </string-array>
+    <string-array name="pref_room_size_entries">
+        <item>Kicsi</item>
+        <item>Közepes</item>
+        <item>Nagy</item>
+    </string-array>
+    <string-array name="pref_brightness_entries">
+        <item>Alacsony</item>
+        <item>Közepes</item>
+        <item>Magas</item>
+    </string-array>
+    <string-array name="scan_exlude_suffixes">
+        <item>MIDI</item>
+        <item>SWB</item>
+        <item>RM</item>
+    </string-array>
+    <string-array name="scan_exlude_suffixes_default_value">
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+    </string-array>
+    <string-array name="files_filter_size_entries">
+        <item>Nincs korlát</item>
+        <item>200KB</item>
+        <item>500KB</item>
+        <item>800KB</item>
+        <item>1MB</item>
+    </string-array>
+    <string-array name="files_filter_size_values">
+        <item>0</item>
+        <item>204800</item>
+        <item>512000</item>
+        <item>819200</item>
+        <item>1024000</item>
+    </string-array>
+    <string-array name="files_filter_duration_entries">
+        <item>Nincs korlát</item>
+        <item>20 mp</item>
+        <item>60 mp</item>
+        <item>90 mp</item>
+        <item>120 mp</item>
+    </string-array>
+    <string-array name="files_filter_duration_values">
+        <item>0</item>
+        <item>20000</item>
+        <item>60000</item>
+        <item>90000</item>
+        <item>120000</item>
+    </string-array>
+    <string-array name="global_sound_entries">
+        <item>Közeli</item>
+        <item>Dolby hatás</item>
+        <item>Dirac HD hang</item>
+    </string-array>
+    <string-array name="download_entries">
+        <item>Letöltés folyamatban</item>
+        <item>Letöltve</item>
+    </string-array>
+    <string-array name="artist_child_entries">
+        <item>Dal</item>
+        <item>Album</item>
+    </string-array>
+    <string-array name="local_songs_entries">
+        <item>Összes dal</item>
+        <item>Művészek</item>
+        <item>Albumok</item>
+        <item>Mappa</item>
+    </string-array>
+    <string-array name="online_songs_entries">
+        <item>Ajánlott</item>
+        <item>Helyezések</item>
+        <item>Művészek</item>
+        <item>Rádió</item>
+    </string-array>
+    <string-array name="mood_play_tags_entries">
+        <item>Reggel</item>
+        <item>Dél</item>
+        <item>Délután</item>
+        <item>Este</item>
+        <item>Éjszaka</item>
+        <item>Szomorú</item>
+        <item>Hiányzik</item>
+        <item>Halk</item>
+        <item>Boldog</item>
+        <item>Szenvedélyes</item>
+        <item>Sport</item>
+        <item>Munka</item>
+        <item>Délutáni tea</item>
+        <item>Munka</item>
+        <item>Séta</item>
+        <item>Érintés</item>
+        <item>Magányos</item>
+        <item>Nosztalgia</item>
+        <item>Bár</item>
+    </string-array>
+    <string-array name="mood_play_tags_string_entries">
+        <item>Reggel</item>
+        <item>Dél</item>
+        <item>Délután</item>
+        <item>Este</item>
+        <item>Éjszaka</item>
+        <item>Szomorú</item>
+        <item>Hiányzik</item>
+        <item>Halk</item>
+        <item>Boldog</item>
+        <item>Szenvedélyes</item>
+        <item>Sport</item>
+        <item>Munka</item>
+        <item>Délutáni tea</item>
+        <item>Munka</item>
+        <item>Séta</item>
+        <item>Érintés</item>
+        <item>Magányos</item>
+        <item>Nosztalgia</item>
+        <item>Bár</item>
+    </string-array>
+    <string-array name="face_match_tags_string_entries">
+        <item>Utazás</item>
+        <item>Boldog</item>
+        <item>Szenvedélyes</item>
+        <item>Halk</item>
+        <item>Szomorú</item>
+    </string-array>
+    <string-array name="download_order">
+        <item>Rendezés név alapján</item>
+        <item>Rendezés idő alapján (alapértelmezett)</item>
+    </string-array>
+    <string-array name="all_song_order">
+        <item>Rendezés név alapján (alapértelmezett)</item>
+        <item>Rendezés idő alapján</item>
+    </string-array>
+    <string-array name="favor_entries">
+        <item>Helyi</item>
+        <item>Online</item>
+    </string-array>
+    <string-array name="mv_title">
+        <item>Zenei videó leírása</item>
+        <item>Kapcsolódó zenei videók</item>
+    </string-array>
+    <string-array name="yd_title">
+        <item>Yuedan leírás</item>
+        <item>Yuedan gyűjtemények</item>
+    </string-array>
+    <string-array name="mv_download_entries">
+        <item>Letöltés folyamatban</item>
+        <item>Letöltve</item>
+    </string-array>
+    <string-array name="mv_type_entries">
+        <item>Forró</item>
+        <item>Premier</item>
+        <item>Szárazföldi Kína</item>
+        <item>Hongkong és Tajvan</item>
+        <item>Dél-Korea</item>
+        <item>Japán</item>
+        <item>Európai és amerikai egyesült államokbeli</item>
+    </string-array>
+    <string-array name="vb_type_entries">
+        <item>Szárazföldi Kína</item>
+        <item>Hongkong és Tajvan</item>
+        <item>Dél-Korea</item>
+        <item>Japán</item>
+        <item>Európai és amerikai egyesült államokbeli</item>
+    </string-array>
+    <string-array name="discovery_tabs_search_entries">
+        <item>Dalok</item>
+        <item>Albumok</item>
+        <item>Művészek</item>
+        <item>Zenei videó</item>
+    </string-array>
+    <string-array name="online_singer">
+        <item>Kínai férfi énekesek</item>
+        <item>Kínai női énekesek</item>
+        <item>Kínai zenekarok</item>
+        <item>Európai és amerikai egyesült államokbeli férfi énekesek</item>
+        <item>Európai és amerikai egyesült államokbeli női énekesek</item>
+        <item>Európai és amerikai egyesült államokbeli zenekarok</item>
+        <item>Japán férfi énekesek</item>
+        <item>Japán női énekesek</item>
+        <item>Japán együttesek</item>
+        <item>Dél-koreai férfi énekesek</item>
+        <item>Dél-koreai női énekesek</item>
+        <item>Dél-koreai együttesek</item>
+        <item>Zenészek a Xiami.com webhelyen</item>
+    </string-array>
+    <string-array name="search_mv_type_entries">
+        <item>Zenei videó</item>
+        <item>Yuedan gyűjtemény</item>
+        <item>Művész</item>
+    </string-array>
+</resources>

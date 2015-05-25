@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="a_province">
+        <item>A</item>
+        <item>安徽</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="b_province">
+        <item>B</item>
+        <item>北京</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="c_province">
+        <item>C</item>
+        <item>重庆</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="f_province">
+        <item>F</item>
+        <item>福建</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="g_province">
+        <item>G</item>
+        <item>广西</item>
+        <item>贵州</item>
+        <item>甘肃</item>
+        <item></item>
+        <item>广东</item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="h_province">
+        <item>H</item>
+        <item>河北</item>
+        <item>湖南</item>
+        <item>湖北</item>
+        <item></item>
+        <item>河南</item>
+        <item>海南</item>
+        <item>黑龙江</item>
+    </string-array>
+    <string-array name="j_province">
+        <item>J</item>
+        <item>江苏</item>
+        <item>江西</item>
+        <item>吉林</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="l_province">
+        <item>L</item>
+        <item>辽宁</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="n_province">
+        <item>N</item>
+        <item>宁夏</item>
+        <item>内蒙古</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="q_province">
+        <item>Q</item>
+        <item>青海</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="s_province">
+        <item>S</item>
+        <item>上海</item>
+        <item>四川</item>
+        <item>陕西</item>
+        <item></item>
+        <item>山西</item>
+        <item>山东</item>
+        <item></item>
+    </string-array>
+    <string-array name="t_province">
+        <item>T</item>
+        <item>天津</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="x_province">
+        <item>X</item>
+        <item>Xinjiang</item>
+        <item>Tibet</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="y_province">
+        <item>Y</item>
+        <item>云南</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="z_province">
+        <item>Z</item>
+        <item>浙江</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="operator_carry_name">
+        <item>CMCC</item>
+        <item>CHINA UNICOM</item>
+        <item>China Telecom</item>
+    </string-array>
+    <string-array name="cmcc_brand_name">
+        <item>GoTone</item>
+        <item>M-zone</item>
+        <item>Easyown</item>
+    </string-array>
+    <string-array name="unicom_brand_name">
+        <item>Unicom 2G</item>
+        <item>Unicom 3G/4G</item>
+    </string-array>
+    <string-array name="telecom_brand_name">
+        <item>China Telecom</item>
+    </string-array>
+    <string-array name="service_brand_name">
+        <item>GoTone</item>
+        <item>M-zone</item>
+        <item>Easyown</item>
+        <item>Unicom 2G</item>
+        <item>Unicom 3G/4G</item>
+        <item>China Telecom</item>
+    </string-array>
+    <string-array name="data_usage_time_interval">
+        <item>Tegnap</item>
+        <item>Ma</item>
+        <item>Jelen hónap</item>
+    </string-array>
+    <string-array name="traffic_tyle_interval">
+        <item>Adatok használata</item>
+        <item>Wi-Fi használat</item>
+    </string-array>
+    <string-array name="KeyWorks">
+        <item>Adatok használata</item>
+        <item>Csomag</item>
+        <item>Használt</item>
+        <item>Elérhető</item>
+        <item>Használat</item>
+    </string-array>
+    <string-array name="KeyAbort">
+        <item>Nem kell újra küldeni</item>
+        <item>Egy kicsit elfoglalt</item>
+    </string-array>
+</resources>

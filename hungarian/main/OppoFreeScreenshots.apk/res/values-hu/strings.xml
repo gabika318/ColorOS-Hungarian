@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Szabad képernyőmentés</string>
+    <string name="action_settings">Beállítások</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="oppo_circle_cut_text">Kör kivágás</string>
+    <string name="oppo_rect_cut_text">Négyzet kivágás</string>
+    <string name="oppo_free_draw_text">Firka</string>
+    <string name="oppo_rect_draw_text">Négyzet</string>
+    <string name="oppo_arrow_draw_text">Nyíl</string>
+    <string name="oppo_circle_draw_text">Kör</string>
+    <string name="oppo_save_text">Mentés</string>
+    <string name="oppo_share_text">Küldés</string>
+    <string name="oppo_cancel_text">Mégse</string>
+    <string name="in_saving">Mentés...</string>
+    <string name="exit_message">Ki szeretne lépni?</string>
+    <string name="exit_title">Megjegyzés</string>
+    <string name="exit_ok">OK</string>
+    <string name="exit_cancel">Mégse</string>
+    <string name="file_no_exist">Fájl nem létezik</string>
+</resources>

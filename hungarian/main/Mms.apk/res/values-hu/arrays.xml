@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>^_^</item>
+        <item>^o^</item>
+        <item>\"^_^\"</item>
+        <item>(@_@)</item>
+        <item>~>_&lt;~</item>
+        <item>\?_?</item>
+        <item>^_-</item>
+        <item>(-_-)</item>
+        <item>:^)</item>
+        <item>\@)--</item>
+        <item>:-&lt;</item>
+        <item>:-(</item>
+        <item>":'-("</item>
+        <item>:-*</item>
+        <item>:-X</item>
+        <item>\\_/7</item>
+        <item>:-o</item>
+        <item>/&lt;-/</item>
+        <item>:-{</item>
+        <item>(|0|)</item>
+        <item>\@_@</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Mosolyog</item>
+        <item>Büszke</item>
+        <item>Félénk</item>
+        <item>Unalmas</item>
+        <item>Rossz mosoly</item>
+        <item>Csodálkozik</item>
+        <item>Játékos</item>
+        <item>Bolondos</item>
+        <item>Oldalsó mosoly</item>
+        <item>Rózsa</item>
+        <item>Nagyon szomorú</item>
+        <item>Szomorú nézés</item>
+        <item>Sírás</item>
+        <item>Csók</item>
+        <item>Édes csók</item>
+        <item>Teás/Kávés bögre</item>
+        <item>Meglepetés</item>
+        <item>Törlés</item>
+        <item>Mi?</item>
+        <item>Hamburger</item>
+        <item>Szerelmes levés</item>
+    </string-array>
+    <string-array name="days_of_week">
+        <item>Vas</item>
+        <item>Hét</item>
+        <item>Ked</item>
+        <item>Sze</item>
+        <item>Csü</item>
+        <item>Pén</item>
+        <item>Szo</item>
+    </string-array>
+    <string-array name="oppo_repeat_type">
+        <item>Egyszer</item>
+        <item>Minden nap</item>
+        <item>Munkanapokon</item>
+        <item>Egyéni</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>Telefon</item>
+        <item>SIM kártya</item>
+    </string-array>
+    <string-array name="dayofweek">
+        <item>Tegnap</item>
+    </string-array>
+    <string-array name="slidelist_add_slide_choose">
+        <item>Hozzáadás felülre</item>
+        <item>Hozzáadás alulra</item>
+    </string-array>
+    <string-array name="slideedit_add_slide_choose">
+        <item>Hozzáadás a jelenlegi oldal elé</item>
+        <item>Hozzáadás a jelenlegi oldal után</item>
+    </string-array>
+    <string-array name="pref_sms_input_mode_choice">
+        <item>GSM ABC</item>
+        <item>Unicode</item>
+        <item>Automatikus</item>
+    </string-array>
+    <string-array name="collected_message_dialog_items">
+        <item>Továbbít</item>
+        <item>Szöveg másolása</item>
+        <item>Eredeti üzenet megtekintése</item>
+        <item>Eltávolítás a kedvencekből</item>
+    </string-array>
+    <string-array name="prefEntries_mms_size">
+        <item>50K</item>
+        <item>100K</item>
+        <item>150K</item>
+        <item>200K</item>
+        <item>300K</item>
+    </string-array>
+    <string-array name="prefValues_mms_size">
+        <item>50</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>300</item>
+    </string-array>
+    <string-array name="usemainnumexist_dialog_items">
+        <item>Mentés</item>
+        <item>Tárcsázás</item>
+        <item>Szám szerkesztése a tárcsázás előtt</item>
+        <item>Másolás</item>
+        <item>Üzenet küldése</item>
+    </string-array>
+    <string-array name="email_dialog_items">
+        <item>Email küldése</item>
+        <item>Email cím mentése</item>
+        <item>Email cím másolása</item>
+    </string-array>
+    <string-array name="web_dialog_items">
+        <item>Megnyitás</item>
+        <item>Mentés könyvjelzőként</item>
+        <item>URL másolása</item>
+    </string-array>
+    <string-array name="prefEntries_sms_validity">
+        <item>Nincs beállítva</item>
+        <item>1 óra</item>
+        <item>6 óra</item>
+        <item>12 óra</item>
+        <item>1 nap</item>
+        <item>Maximum</item>
+    </string-array>
+    <string-array name="prefValues_sms_validity">
+        <item>-1</item>
+        <item>11</item>
+        <item>71</item>
+        <item>143</item>
+        <item>167</item>
+        <item>255</item>
+    </string-array>
+    <string-array name="prefEntries_mms_validity">
+        <item>2 nap</item>
+        <item>3 nap</item>
+        <item>Maximum</item>
+    </string-array>
+    <string-array name="prefValues_mms_validity">
+        <item>2</item>
+        <item>3</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="prefEntries_choose_message">
+        <item>SIM1 info</item>
+        <item>SIM2 info</item>
+        <item>Minden info</item>
+    </string-array>
+    <string-array name="timed_message_dialog_items">
+        <item>Küldés most</item>
+        <item>Időpont megváltoztatása</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 mp</item>
+        <item>2 mp</item>
+        <item>3 mp</item>
+        <item>4 mp</item>
+        <item>5 mp</item>
+        <item>6 mp</item>
+        <item>7 mp</item>
+        <item>8 mp</item>
+        <item>9 mp</item>
+        <item>10 mp</item>
+        <item>Egyéb...</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Mindig</item>
+        <item>Csak ha Néma</item>
+        <item>Soha</item>
+    </string-array>
+    <string-array name="insert_dialog_items">
+        <item>Név és szám</item>
+        <item>Napló</item>
+        <item>Sablonok</item>
+        <item>Hangulatjelek</item>
+    </string-array>
+    <string-array name="usemainnum_dialog_items">
+        <item>Hívás</item>
+        <item>Szerkesztés a hívás előtt</item>
+        <item>Szám tulajdonságok</item>
+        <item>Névjegy megtekintése</item>
+    </string-array>
+    <string-array name="usesubnum_dialog_items">
+        <item>Hívás</item>
+        <item>Mentés</item>
+        <item>Üzenet küldése</item>
+        <item>Szerkesztés a hívás előtt</item>
+        <item>Körzetszám</item>
+    </string-array>
+    <string-array name="use_unsaved_telephone_number">
+        <item>Hívás</item>
+        <item>Szerkesztés a hívás előtt</item>
+        <item>Szám tulajdonságok</item>
+    </string-array>
+    <string-array name="emailexit_dialog_items">
+        <item>Email küldése</item>
+        <item>Email cím megtekintése</item>
+        <item>Email cím másolása</item>
+    </string-array>
+</resources>

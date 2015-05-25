@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_format_entries">
+        <item>mp3</item>
+        <item>wav</item>
+        <item>amr</item>
+    </string-array>
+    <string-array name="pref_format_values">
+        <item>mp3</item>
+        <item>wav</item>
+        <item>amr</item>
+    </string-array>
+    <string-array name="pref_storage_entries_with_sdcard">
+        <item>Phone storage/Recordings</item>
+        <item>SD card/Recordings</item>
+    </string-array>
+    <string-array name="pref_storage_values_with_sdcard">
+        <item>phone</item>
+        <item>sdcard</item>
+    </string-array>
+    <string-array name="pref_storage_entries_no_sdcard">
+        <item>Phone storage/Recordings</item>
+    </string-array>
+    <string-array name="pref_storage_values_no_sdcard">
+        <item>Phone</item>
+    </string-array>
+    <string-array name="pref_storage_entries_no_internal">
+        <item>SD card/Recordings</item>
+    </string-array>
+    <string-array name="pref_storage_values_no_internal">
+        <item>sdcard</item>
+    </string-array>
+    <string-array name="pref_storage_entries_no_internal_and_sdcard">
+        <item>Tárhely nem elérhető</item>
+    </string-array>
+    <string-array name="pref_storage_values_no_internal_and_sdcard">
+        <item></item>
+    </string-array>
+    <string-array name="pref_quality_entries">
+        <item>Standard</item>
+        <item>Jó</item>
+    </string-array>
+    <string-array name="pref_quality_values">
+        <item>normal</item>
+        <item>high</item>
+    </string-array>
+</resources>

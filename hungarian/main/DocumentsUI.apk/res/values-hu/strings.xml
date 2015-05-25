@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Dokumentumok</string>
+    <string name="title_open">Fájl megnyitása</string>
+    <string name="title_save">Fájl mentése</string>
+    <string name="menu_create_dir">Új mappa</string>
+    <string name="menu_grid">Mozaik nézet</string>
+    <string name="menu_list">Listanézet</string>
+    <string name="menu_sort">Rendezési szempont</string>
+    <string name="menu_search">Keresés</string>
+    <string name="menu_settings">Beállítások</string>
+    <string name="menu_open">Be</string>
+    <string name="menu_save">Mentés</string>
+    <string name="menu_share">Megosztás</string>
+    <string name="menu_delete">Törlés</string>
+    <string name="mode_selected_count">%1$d tétel kiválasztva</string>
+    <string name="sort_name">Név</string>
+    <string name="sort_date">Módosítás dátuma szerint</string>
+    <string name="sort_size">Méret</string>
+    <string name="drawer_open">A gyökérkönyvtár megjelenítése</string>
+    <string name="drawer_close">A gyökérkönyvtár elrejtése</string>
+    <string name="save_error">A fájl nem menthető</string>
+    <string name="create_error">Nem hozható létre mappa</string>
+    <string name="query_error">A fájl nem kérdezhető le</string>
+    <string name="root_recent">Legutóbb megnyitott</string>
+    <string name="root_available_bytes">Rendelkezésre álló tárhely: %1$s</string>
+    <string name="root_type_service">Tárhely szolgáltatás</string>
+    <string name="root_type_shortcut">Parancsikon</string>
+    <string name="root_type_device">Eszköz</string>
+    <string name="root_type_apps">További alkalmazások</string>
+    <string name="pref_advanced_devices">Speciális eszközök megjelenítése</string>
+    <string name="pref_file_size">Fájlméret megjelenítése</string>
+    <string name="pref_device_size">Eszközméret megjelenítése</string>
+    <string name="empty">Nincsenek fájlok</string>
+    <string name="toast_no_application">Nem lehet megnyitni a fájlt</string>
+    <string name="toast_failed_delete">Bizonyos fájlok nem törölhetők</string>
+    <string name="share_via">Módszer megosztása</string>
+    <string name="title_storage">Belső tárhely</string>
+    <string name="title_storage_sd">SD-kártya</string>
+</resources>

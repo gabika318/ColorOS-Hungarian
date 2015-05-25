@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete">Törlés</string>
+    <string name="apply">Alkalmaz</string>
+    <string name="confirm">OK</string>
+    <string name="cancel">Mégse</string>
+    <string name="confirm_delete">Dinamikus háttérkép törlése</string>
+    <string name="confirm_delete_content">Biztosan törölni szeretné a dinamikus háttérképet?</string>
+</resources>

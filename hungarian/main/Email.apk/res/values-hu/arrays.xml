@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Apró méretű szöveg</item>
+        <item>Kisméretű szöveg</item>
+        <item>Normál méretű szöveg</item>
+        <item>Nagyméretű szöveg</item>
+        <item>Óriási méretű szöveg</item>
+    </string-array>
+    <string-array name="email_name">
+        <item>163Email</item>
+        <item>126Email</item>
+        <item>Sina Email</item>
+        <item>QQ Email</item>
+        <item>Gmail</item>
+        <item>Hotmail</item>
+        <item>Exchange</item>
+        <item>Sohu Email</item>
+        <item>Fiók beállítások</item>
+        <item>139Email</item>
+        <item>189Email</item>
+    </string-array>
+    <string-array name="pref_storage_destination_choices">
+        <item>Phone storage/Download</item>
+        <item>SD card/Download</item>
+    </string-array>
+    <string-array name="sort_orders">
+        <item>Idő (legújabb felül)</item>
+        <item>Idő (legrégebbi felül)</item>
+        <item>Feladó (A-Z)</item>
+        <item>Olvasott/Olvasatlan</item>
+        <item>Csatolmányok</item>
+        <item>Cím (A-Z)</item>
+        <item>Csillagozott</item>
+    </string-array>
+    <string-array name="general_preference_message_download_size_summary_array">
+        <item>Letöltés mobil hálózatok használatával ha az üzenet nem nagyobb mint 5 KB</item>
+        <item>Letöltés mobil hálózatok használatával ha az üzenet nem nagyobb mint 50 KB</item>
+        <item>Letöltés mobil hálózatok használatával ha az üzenet nem nagyobb mint 100KB</item>
+        <item>Nincs korlát az üzenetek mobil hálózat használatával történő letöltéséhez</item>
+    </string-array>
+    <string-array name="general_preference_auto_advance_summary_array">
+        <item>Miután törlésre került az elolvasott email, automatikusan lépjen az előzőre</item>
+        <item>Miután törlésre került az elolvasott email, automatikusan lépjen a következőre</item>
+        <item>Miután törlésre került az elolvasott email, automatikusan lépjen az email listára</item>
+    </string-array>
+    <string-array name="remote_select_time">
+        <item>Ma</item>
+        <item>1 nap</item>
+        <item>3 nap</item>
+        <item>1 hét</item>
+        <item>1 hónap</item>
+        <item>Egyéni</item>
+    </string-array>
+    <string-array name="sort_orders_for_send">
+        <item>Idő (kezdve a legújabbal)</item>
+        <item>Idő (kezdve a legkorábbival)</item>
+        <item>Címzett (A - Z)</item>
+        <item>Olvasott/olvasatlan</item>
+        <item>Mellékletek</item>
+        <item>Tárgy (A - Z)</item>
+        <item>Csillagozott</item>
+    </string-array>
+</resources>

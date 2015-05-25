@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="power_save_setting">Energiatakarékossági beállítások</string>
+    <string name="power_save_normal">Normális energiatakarékosság</string>
+    <string name="super_power_save">Szuper energiatakarékos üzemmód</string>
+    <string name="auto_start">Automatikusan bekapcsolva, ha alacsony az akkufeszültség</string>
+    <string name="auto_start_tips">Ez az energiatakarékossági üzemmód automatikusan be van kapcsolva, ha 10% alatt van az akkufeszültség</string>
+    <string name="super_power_save_start">Engedélyezés</string>
+    <string name="power_save_quit_title">Kilép a szuper energiatakarékos üzemmódból?</string>
+    <string name="power_save_quit_tips">Biztosan ki szeretne lépni a szuper energiatakarékos üzemmódból?</string>
+    <string name="others">Egyéb</string>
+    <string name="auto_dialog_title">Aktiválja a rendkívül energiatakarékos módot</string>
+    <string name="auto_dialog_message">Az akkumulátorszint 10% alatti. Aktiválásra kerül a rendkívül energiatakarékos mód.</string>
+    <string name="power_save_deep">További energiatakarékossági opciók</string>
+    <string name="power_save_touch">Figyelem! Ezt az opciót engedélyezve ronthat a rendszer teljesítményén</string>
+    <string name="power_save_using_title">Utasítások</string>
+    <string name="power_save_nomal_tips">Normális energiatakarékosság</string>
+    <string name="power_save_deep_tips">Mély energiatakarékosság</string>
+    <string name="enable_screen_tag">A képernyő fényerejének csökkentésével csökkentheti az áramfogyasztást</string>
+    <string name="enable_animation_title">Animációk letiltása</string>
+    <string name="enable_simple_launch_title">Az egyszerű asztal engedélyezése</string>
+    <string name="enable_down_cpu_title">Processzor órajelének csökkentése</string>
+    <string name="enable_clear_back_title">Háttérben futó folyamatok korlátozása</string>
+    <string name="enable_clear_back_summary">Nincs háttér</string>
+    <string name="twelve_hour_time_format">h:mm a</string>
+    <string name="twenty_four_hour_time_format">HH:mm</string>
+    <string name="full_year_month_day_week">yyyy.MM.dd EEEE</string>
+    <string name="quit">Kilépés</string>
+    <string name="help_string">"Normális energiatakarékosság:
+1. Képernyő energiatakarékosság
+Energiafogyasztás csökkentése amikor a kijelző be van kapcsolva a képernyő fényerejének csökkentésével.
+2. Rezgő visszajelzés letiltása
+A rezgő visszajelzés leállításával energiatakarékosságot érhet el.
+3.GPS, Wi-Fi, Bluetooth és mobil hálózatok letiltása
+A GPS, Wi-Fi, Bluetooth és mobil hálózatok letiltásával energiatakarékosságot érhet el.
+Ezeknek a szolgáltatásoknak a leállítása befolyásolhatja az internet hozzáférését, de nem fogja befolyásolni a telefonos kapcsolatot.
+Mély energiatakarékosság:
+1. Animációk letiltása.
+ Az Animációk letiltásával energiatakarékosságot érhet el, de kevésbé látványos lesz telefonja.
+2. Csak kommunikáció
+Ha az akku feszültsége alacsony, a telefon automatikusan lekapcsol minden funkciót kivéve az alapvető telefonálást, illetve az üzenetküldést és fogadást. Ezzel nagy mértékű energiatakarékosságot érhet el.
+3.A CPU óraszámának csökkentése
+A CPU óraszámának csökkentésével jelentős energiatakarékosságot érhet el, de lassítja a telefonját.
+4. Háttér tiltása
+At alkalmazások befagyasztásával jelentős energiatakarékosságot érhet el, de ez befolyásolhat háttérben futó alkalmazásokat."</string>
+    <string name="battery_low_percent_format">Kevesebb mint %d%% töltöttség maradt</string>
+    <string name="enter_smartMode_format">Belépés ebbe: %s?</string>
+    <string name="app_name">Akku kezelés</string>
+    <string name="power_details">Akku információ</string>
+    <string name="power_save_mode">Takarékos üzemmód</string>
+    <string name="smart_control">Okos vezérlés</string>
+    <string name="power_usage_details">Akku használat részletei</string>
+    <string name="power_usage_statistics">Akku használati statisztikák</string>
+    <string name="smart_mode_set_title">Okos vezérlés</string>
+    <string name="clear_label">Alkalmazások bezárása</string>
+    <string name="application_drain_label">Alkalmazás</string>
+    <string name="hardware_drain_label">Hardver</string>
+    <string name="refresh_label">Frissítés</string>
+    <string name="battery_history_days">%1$d n %2$d ó %3$d p %4$d mp</string>
+    <string name="battery_history_hours">%1$d ó %2$d p %3$d mp</string>
+    <string name="battery_history_minutes">%1$d p %2$d mp</string>
+    <string name="battery_history_seconds">%1$d mp</string>
+    <string name="power_screen">Megjelenítés</string>
+    <string name="power_wifi">Wi-Fi</string>
+    <string name="power_bluetooth">Bluetooth</string>
+    <string name="power_cell">Cella készenlét</string>
+    <string name="power_phone">Hanghívások</string>
+    <string name="power_idle">Cella készenlét</string>
+    <string name="process_kernel_label">Android rendszer</string>
+    <string name="process_mediaserver_label">Médiaszerver</string>
+    <string name="prompt_system_app_label">Android rendszeralkalmazások</string>
+    <string name="prompt_apps_forcestop_label">Az áramot fogyasztó alkalmazások bezárva!</string>
+    <string name="label_text_standing_time">"Használható: "</string>
+    <string name="label_text_voltage">Feszültség:</string>
+    <string name="label_text_temperature">Hőmérséklet:</string>
+    <string name="label_text_health">Akkumulátor állapota:</string>
+    <string name="label_text_idle">Cella készenlét</string>
+    <string name="label_text_call">Hívások</string>
+    <string name="label_text_net">Internet</string>
+    <string name="label_text_music">Zene</string>
+    <string name="label_text_video">Videó</string>
+    <string name="label_text_read">Olvasás</string>
+    <string name="label_text_game">Játék</string>
+    <string name="label_text_leaving_time">Hátralevő idő (ó/p)</string>
+    <string name="label_text_mode">Normális üzemmód</string>
+    <string name="label_text_hour">ó</string>
+    <string name="label_text_min">p</string>
+    <string name="label_text_battery_health_good">Jó</string>
+    <string name="label_text_battery_health_overheat">Túlmelegedés</string>
+    <string name="label_text_battery_health_dead">Rossz</string>
+    <string name="label_text_battery_health_over_voltage">Túl magas feszültség</string>
+    <string name="label_text_battery_health_unknow">Ismeretlen</string>
+    <string name="label_text_mode_select">Üzemód kiválasztása</string>
+    <string name="brightness">Fényerő</string>
+    <string name="screen_timeout">Alvó mód</string>
+    <string name="display_settings">Megjelenítési beállítások</string>
+    <string name="animations_title">Animációk</string>
+    <string name="enable_wlan">Wi-Fi</string>
+    <string name="enable_bluetooth">Bluetooth</string>
+    <string name="enable_mobiledata">Mobil hálózat</string>
+    <string name="enable_gps">GPS</string>
+    <string name="enable_autosync">Szinkronizálás</string>
+    <string name="enable_silence">Rezgés</string>
+    <string name="enable_hapticfeedback">Érintés visszajelzés letiltása</string>
+    <string name="mode_delete">Törlés</string>
+    <string name="mode_modify">Szerkesztés</string>
+    <string name="change_mode_title">Üzemmód megváltoztatása</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Mégse</string>
+    <string name="save">Mentés</string>
+    <string name="automatic">Automatikus szabályzás</string>
+    <string name="automatic_brightness">Fényerő automatikus szabályzása</string>
+    <string name="brightness_summary">A képernyő fényereje %s%%</string>
+    <string name="screen_timeout_summary">Képernyő lekapcsolása: %s után</string>
+    <string name="is_changed">MEgváltoztatva</string>
+    <string name="cancel">Mégse</string>
+    <string name="rename">Átnevezés</string>
+    <string name="values_check_not_null">A mező nem lehet üres!</string>
+    <string name="values_check_dual_name">A név már létezik, kérjük adjon meg egy másikat!</string>
+    <string name="new_power_mode">Egyéni üzemmód</string>
+    <string name="delete_mode_clue">%s törlése?</string>
+    <string name="hour_label">ó</string>
+    <string name="minute_label">p</string>
+    <string name="can_not_delete">Nem lehet törölni a jelenleg aktív üzemmódot!</string>
+    <string name="mode_error">Adat hiba</string>
+    <string name="smart_power">Okos vezérlés</string>
+    <string name="auto_low_power">Alacsony akkufeszültség üzemmód</string>
+    <string name="auto_lock_power">Kikapcsolt kizejő üzemmód</string>
+    <string name="on_schedule_power">Idő váltás üzemmód</string>
+    <string name="low_pow_value_string">Akku érték beállítása</string>
+    <string name="low_pow_value">%s%%</string>
+    <string name="low_pow_dialog">Akku érték</string>
+    <string name="power_mode_title">Üzemód kiválasztása</string>
+    <string name="mode_title">Üzemmód lista</string>
+    <string name="smart_lock_title">Kikapcsolt kizejő üzemmód</string>
+    <string name="lock_time">Idő beállítása</string>
+    <string name="lock_time_dialog_title">Idő lista</string>
+    <string name="set_time_title">Időtartam beállítása</string>
+    <string name="begin_time">Indítás</string>
+    <string name="end_time">Befejezés ideje</string>
+    <string name="time_input_error">Időpont ütközés, 1 óra automatikus hozzáadása</string>
+    <string name="values_check_long">A bevitt szöveg túl hosszú</string>
+    <string name="save_method">Energiatakarékossági tippek</string>
+    <string name="save_settings">Beállítások</string>
+    <string name="exit">Kilépés</string>
+    <string name="enable_notification">Értesítések</string>
+    <string name="enable_notification_summary">Akku töltöttség mutatása az állapotsoron</string>
+    <string name="enable_boot_start">Automatikus indítás bekapcsoláskor</string>
+    <string name="enable_boot_start_summary">Energiatakarékosság indítása bekapcsoláskor</string>
+    <string name="enable_button">Megnyitott</string>
+    <string name="disable_button">Bezárva</string>
+    <string name="super_mode_summary">Csak a kommunikációs funkciókat engedélyezze és tiltson le minden más funkciót</string>
+    <string name="first_mode_summary">Az első belépéskor elmentett rendszerbeállítások</string>
+    <string name="loading">Változtatás üzemmód</string>
+    <string name="enable_wlan_summary">A Wi-Fi letiltása növelheti a használati időt</string>
+    <string name="enable_bluetooth_summary">A Bluetooth letiltása növelheti a használati időt</string>
+    <string name="enable_mobiledata_summary">Az adathasználat letiltása növelheti a használati időt</string>
+    <string name="enable_gps_summary">A GPS letiltása növelheti a használati időt</string>
+    <string name="enable_autosync_summary">Az automatikus szinkronizálás letiltása növelheti a használati időt</string>
+    <string name="enable_silence_summary">A rezgés letiltása növelheti a használati időt</string>
+    <string name="enable_hapticfeedback_summary">Az érintés visszajelzés letiltása növelheti a használati időt</string>
+    <string name="power_settings">Akku kezelés</string>
+    <string name="display_power_percent">Akku feszültség mutatása az állapotsorban</string>
+    <string name="battery_percentage_info">Akku feszültség:</string>
+    <string name="power_manager_fresh">Frissítés</string>
+    <string name="power_manager_optimize">Optimalizálás</string>
+    <string name="enable_brightness_mode">A kijelző fényerejének csökkentése</string>
+    <string name="enable_brightness_mode_summary">Képernyő energiatakarékossági üzemmód használata</string>
+    <string name="enable_power_manager_toast">Energiatakarékossági üzemmód engedélyezve</string>
+    <string name="unenable_power_manager_toast">Energiatakarékossáki üzemmód kikapcsolva</string>
+    <string name="close_gps_wifi_bt_gprs_title">GPS, Wi-Fi, Bluetooth, adathálóztok kikapcsolása</string>
+    <string name="close_gps_wifi_bt_gprs_summary">A fenti funkciók letiltásával megnövelheti az használati időt</string>
+    <string name="enable_down_cpu_deep_summary">Ez lelassíthaja a rendszert</string>
+    <string name="enable_simple_launch_deep_summary">Csak a telefon, névjegy, üzenet és óra funkciók megtartása</string>
+    <string name="enable_simple_launch_deep_summary_cta_tips">Hozzáférés a nem fogadott hívások és az olvasatlan SMS üzenetek számához</string>
+    <string name="power_saving_setting">Energiatakarékossági beállítások</string>
+    <string name="power_remind_setting">Emlékeztetés beállításai</string>
+    <string name="power_charging_remind">Emlékeztetés töltésre</string>
+    <string name="power_charging_remind_details">Emlékeztesse a felhasználót, ha az akkumulátor töltöttsége 40% alá merült este</string>
+    <string name="power_saving_tips">Energiatakarékossági tippek</string>
+    <string name="power_saving_help">Energiatakarékossági súgó</string>
+    <string name="power_managerment_help1">1. Képernyő energiatakarékossági üzemmód</string>
+    <string name="power_managerment_help1_summary">A képernyő energiatakarákossági üzemmóddal meghosszabbíthatja a telefonja használati idejét ha a képernyő be van kapcsolva.</string>
+    <string name="power_managerment_help2">2. Érintés visszajelzés letiltása</string>
+    <string name="power_managerment_help2_summary">A rezgés funkció áramot fogyaszt.</string>
+    <string name="power_managerment_help3">3. GPS, Wi-Fi, Bluetooth, adathálózatok kikapcsolása</string>
+    <string name="power_managerment_help3_summary">Ha nem használja a GPS-t, Wi-Fi-t, Bluetooth-t és adathálózatokat, letilthatja ezeket a funkciókat a használati idő meghosszabbításához.</string>
+    <string name="power_managerment_help_summary">A fenti funkciók letiltásával leállítja a telefon internetkapcsolatát, de a telefon többi kommunikációs funkciójára nem lesz kihatással.</string>
+    <string name="full_need_time">Teljesen feltöltve:</string>
+    <string name="label_used_time">"Felhasználva: "</string>
+    <string name="on_schedule_power_summary">%1$s automatikus engedélyezése %2$s</string>
+    <string name="auto_lock_power_summary">%2$s automatikus engedélyezése ha a képernyő ki van kapcsolva ennyi ideig: %1$s. Az előző állapot visszaállítása ha a képernyő be van kapcsolva.</string>
+    <string name="auto_low_power_summary">%1$s aktiválása ha az akku töltöttsége kevesebb, mint %2$s%%</string>
+    <string name="change_mode_sub_clue">Váltás erre: %1$s, a töltés elegendő ennyi ideig: %2$s(ennyit merült: %3$s)</string>
+    <string name="change_mode_add_clue">Váltás erre: %1$s, a tölrés elég ennyi időre: %2$s (növelve ennyivel:%3$s)</string>
+</resources>

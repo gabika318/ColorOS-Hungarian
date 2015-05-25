@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="usb_no_ask_name">Ne jelenjen meg többé</string>
+    <string name="usb_settings">USB beállítások</string>
+    <string name="usb_charge">Csak töltés</string>
+    <string name="usb_charge_detail">Töltés USB-n kereszül</string>
+    <string name="usb_storage">Tároló eszköz</string>
+    <string name="usb_storage_detail">Használja a telefonját tárolóeszközként</string>
+    <string name="usb_mtp">Médiaeszköz (MTP)</string>
+    <string name="usb_mtp_detail">Médiafájlok átvitele a számítógépre</string>
+    <string name="usb_selection_processing">Feldolgozás, kérjük várojon...</string>
+    <string name="device_reboot">Újraindítás</string>
+    <string name="cancel">Mégse</string>
+    <string name="detect_new_SD_title">SD-kártya behelyezve</string>
+    <string name="detect_null_title">SD kártya nem található</string>
+    <string name="detect_new_SD_description">SD-kártya észlelve. Újraindítás?</string>
+    <string name="detect_null_description">Nem található SD-kártya. Újraindítás?</string>
+    <string name="usb_connectted_string">USB eszköz csatlakoztatva</string>
+    <string name="file_transmit_string">Fájl</string>
+    <string name="image_transmit_string">Kép</string>
+    <string name="usb_help_string">Súgó</string>
+    <string name="usb_select_file_transmit">Átvihet fájlokat PC-ről</string>
+    <string name="usb_select_image_transmit">Átvihet képeket PC-ről</string>
+    <string name="adb_enable_notification_title">USB hibakeresés engedélyezve</string>
+    <string name="adb_enable_notification_message">Érintse meg az \"USB hibakeresés letilsásához\"</string>
+    <string name="adb_disenable_notification_title">USB hibakeresés letiltva</string>
+    <string name="adb_disenable_notification_message">Érintse meg az USB hibakeresés bekapcsolásához</string>
+    <string name="adb_status_no_reminder">Soha ne kérdezzen</string>
+    <string name="usb_connection_description">\"Fájlok áthelyezése\" leírása</string>
+    <string name="device_xp">Windows XP és korábbi verziók</string>
+    <string name="device_mac">MAC OS</string>
+    <string name="xp_help_title">Automatikus telepítés</string>
+    <string name="xp_help_message">Az USB csatlakozás után a telefon automatikusan átvizsgálja a számítógépet. Kérjük várjon 30-90 másodpercig. Ha az automatikus telepítés sikertelen, kérjük kövesse ezt az útvonalat: Sajátgép--CD Driver OPPO DRIVER--dupla kattintás a Setup.exe-re a telepítéshez.</string>
+    <string name="mac_help_title">Kérjük töltse le a driver fájlt</string>
+    <string name="mac_help_message">A számítógépével töltse le és nyissa meg a driver fájlt \"AndroidFileTransfer.dmg\" a telepítéshez. Letöltés:</string>
+    <string name="usb_can_select_file_transmit">Érintse meg a fájlok átviteléhez</string>
+    <string name="usb_can_select_only_charge">Érintsen a \"Csak töltés\"-re történő váltáshoz</string>
+    <string name="usb_connectted_file">Fájlok küldése USB-n keresztül</string>
+    <string name="usb_connectted_image">Képek átvitele USB-n keresztül</string>
+    <string name="usb_connectted_charge">Csak töltés</string>
+</resources>

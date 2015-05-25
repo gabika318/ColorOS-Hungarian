@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Elektromos garancia kártya</string>
+    <string name="notifition">Sikeres regisztráció</string>
+    <string name="notifitionTitle">Aktiválás sikeres</string>
+    <string name="notifitionMessage">Sikeres regisztráció</string>
+    <string name="ok">OK</string>
+    <string name="activation">Regisztrálás most</string>
+    <string name="activationInform">Kedves felhasználó! Üdvözöljük az OPPO okostelefonján. Nemsokára sikeresen regisztrálva lesz az OPPO elektromos garancia kártyája. A regisztrálás után lehetősége lesz a Kína szerte megtalálható 300 ügyfélszolgálati központ szolgáltatásait élvezni. A regisztrálás alatt csak a szolgáltatója szabhat ki az alapárú üzenetért díjat.</string>
+    <string name="activationSucess">A telefonja regisztrálva van. Mégegyszer köszönjük az OPPO iránt nyújtott bizalmát.</string>
+    <string name="activationService">Telefon aktiválása</string>
+    <string name="open">Aktiválás</string>
+    <string name="close">Leállítás</string>
+    <string name="has">Regisztrálva</string>
+    <string name="sure">Regisztráljon</string>
+    <string name="not">Mégse</string>
+    <string name="registMessage">Kérjük, ellenőrizze, hogy telefonja képes az internetre csatlakozni, illetve hogy a SIM kártyája használható normál módon.</string>
+    <string name="registTitle">Regisztrációs emlékeztető</string>
+    <string name="regist_sucess_string">Elektromos garancia kártya sikeresen regisztrálva</string>
+    <string name="activationSucessInform">Az elektromos garancia kártya ugyanúgy működik mint a papír alapú testvére. Miután regisztrált, a papír kártya nélkül is élvezheti 300 ügyfélszolgálati központ szolgáltatásait.</string>
+    <string name="send_register_string">Regisztráció elküldve, kérjük várjon</string>
+    <string name="activationInform_oneplus">Kedves felhasználó, Üdvözöljük a ONEPLUS telefoján. Most regisztrálni fog a ONEPLUS telefon elektromos garancia kártyájára és szolgáltatására. Miután regisztrált, az elektromos garancia kártya ugyanúgy működik, mint a papír változat. Miután regisztrált, minden szervíz központunkban élvezheti a garancia előnyeit a papír kártya hordozása nélkül. A regisztrálás alatt a szolgáltatója díjat szabhat ki a regisztráló SMS után</string>
+    <string name="activationSucess_oneplus">A telefonja regisztrálva van. Köszönjük, hogy támogatja a OnePlus-t!</string>
+    <string name="activationSucessInform_oneplus">E-warranty card functions the same as paper warranty card, you can enjoy our customer service in ONEPLUS Authorized Service Centers all over China without having to carry the paper warranty card.</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fényképtár</string>
+    <string name="camera_error_title">Kamerahiba</string>
+    <string name="Close">Bezárás</string>
+    <string name="no_storage">Nincs tárhely</string>
+    <string name="internal_external_no_enough_space">A belső tárhely és az SD-kártya is megtelt, a kamera nem tud tovább működni. Kérjük szabadítson fel tárhelyet.</string>
+    <string name="internal_no_enough_space">A belső tárhely megtelt, a kamera nem tud tovább működni. Kérjük szabadítson fel tárhelyet.</string>
+    <string name="external_to_internal">SD-kártya megtelt, a fényképek a belső tárhelyre lesznek mentve</string>
+    <string name="internal_to_external">A belső tárhely megtelt, a fényképek az SD-kártryára lesznek mentve</string>
+    <string name="internal_to_external_camera">A belső tárhely nem elérhető, a fényképek az SD-kártryára lesznek mentve</string>
+    <string name="external_to_internal_camera">SD-kártya nem elérhető, a fényképek a belső tárhelyre lesznek mentve</string>
+    <string name="internal_low_storage_space">Elégtelen tárhely</string>
+    <string name="date">2013.01.01</string>
+    <string name="share">Megosztás</string>
+    <string name="delete">Törlés</string>
+    <string name="cancel">Mégse</string>
+    <string name="ok">Mentés</string>
+    <string name="send_to">Küldés</string>
+    <string name="edit_mood_hint">Kérjük adja meg hozzászólását ami max. 25 karakterből állhat</string>
+    <string name="oppo_timeline_hint">Lépjen be az Fényképekbe még több kép megtekintéséhez</string>
+    <string name="confirm_delete">Törlés megerősítése</string>
+    <string name="confirm_delete_ok">Törlés megerősítése</string>
+    <string name="picture_not_exist">A kép nem létezik, vagy a tároló eszközt éppen cserélik</string>
+    <string name="camera_in_use">Nem lehet a kamerához csatlakozni!</string>
+</resources>

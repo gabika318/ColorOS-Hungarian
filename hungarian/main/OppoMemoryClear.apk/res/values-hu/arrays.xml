@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clear_interval_entries">
+        <item>Bezárás</item>
+        <item>A képernyő kikapcsolt állapotában</item>
+        <item>1 óránként</item>
+        <item>2 óránként</item>
+        <item>8 óránként</item>
+        <item>Minden nap</item>
+    </string-array>
+    <string-array name="clear_interval_value">
+        <item>0</item>
+        <item>1</item>
+        <item>60</item>
+        <item>120</item>
+        <item>480</item>
+        <item>-1</item>
+    </string-array>
+</resources>

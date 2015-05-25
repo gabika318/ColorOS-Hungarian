@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Indító</string>
+    <string name="language_welcome">Üdvözöljük</string>
+    <string name="wizard_next">Tovább</string>
+</resources>

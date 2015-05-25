@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="title_block_sms">
+        <item quantity="other">Legutóbb blokkolt %d üzenetek</item>
+        <item quantity="one">Legutóbb blokkolt %d üzenet</item>
+    </plurals>
+    <plurals name="title_block_sms_append">
+        <item quantity="other">, %d üzenet</item>
+        <item quantity="one">, %d üzenet</item>
+    </plurals>
+    <plurals name="title_block_phone">
+        <item quantity="other">Legutóbb blokkolt %d hívások</item>
+        <item quantity="one">Legutóbb blokkolt %d hívás</item>
+    </plurals>
+</resources>

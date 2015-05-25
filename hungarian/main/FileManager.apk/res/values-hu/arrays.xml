@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="multi_nav_text">
+        <item>Kategória</item>
+        <item>Telefon</item>
+        <item>SD-kártya</item>
+        <item>Netdisk</item>
+    </string-array>
+    <string-array name="multi_nav_text_cmcc">
+        <item>Kategória</item>
+        <item>Telefon</item>
+        <item>SD-kártya</item>
+    </string-array>
+    <string-array name="single_nav_text">
+        <item>Kategória</item>
+        <item>Telefon</item>
+        <item>Netdisk</item>
+    </string-array>
+    <string-array name="tab_text">
+        <item>Kategória</item>
+        <item>Telefon</item>
+        <item>Netdisk</item>
+    </string-array>
+    <string-array name="single_nav_text_cmcc">
+        <item>Kategória</item>
+        <item>Tárhely</item>
+    </string-array>
+    <string-array name="tab_text_cmcc">
+        <item>Kategória</item>
+        <item>Tárhely</item>
+    </string-array>
+    <string-array name="netdisk_default_folder_names">
+        <item>Filmek</item>
+        <item>Dokumentumok</item>
+        <item>Fényképek</item>
+        <item>Zene</item>
+    </string-array>
+    <string-array name="category_text">
+        <item>Zene</item>
+        <item>Videók</item>
+        <item>Képek</item>
+        <item>Dokumentumok</item>
+        <item>APK</item>
+        <item>ZIP</item>
+    </string-array>
+    <string-array name="category_activity_title">
+        <item>Zene</item>
+        <item>Videók</item>
+        <item>Képek</item>
+        <item>Dokumentumok</item>
+        <item>APK</item>
+        <item>ZIP</item>
+    </string-array>
+    <string-array name="group_item_names">
+        <item>Rendszer ideiglenes fájlok</item>
+        <item>Gyorsítótározott miniatűr képek</item>
+        <item>Alkalmazás gyorsítótár</item>
+        <item>Üres mappák</item>
+        <item>Eltávolított alkalmazások maradékai</item>
+        <item>Nagy fájlok</item>
+        <item>Duplázott telepítő csomag</item>
+    </string-array>
+    <string-array name="cleanup_period">
+        <item>Naponta</item>
+        <item>Hetente</item>
+        <item>Havonta</item>
+        <item>3 havonta</item>
+    </string-array>
+    <string-array name="sim_picker_contents">
+        <item>SIM1</item>
+        <item>SIM2</item>
+        <item>Mindkettő beállítása</item>
+    </string-array>
+    <string-array name="image_text">
+        <item>Fényképek készítése</item>
+        <item>A fényképekből</item>
+    </string-array>
+    <string-array name="select_music_path_DefualtsItem">
+        <item>Telefonról</item>
+        <item>Egyéni</item>
+        <item>Alapértelmezett csengőhang visszaállítása</item>
+    </string-array>
+    <string-array name="select_music_path_noDefualtItem">
+        <item>Telefonról</item>
+        <item>Egyéni</item>
+    </string-array>
+    <string-array name="select_music_path_more_DefualtsItem">
+        <item>Telefonról</item>
+        <item>Egyéni</item>
+        <item>Alapértelmezett csengőhang visszaállítása</item>
+        <item>Több csengőhang</item>
+    </string-array>
+    <string-array name="select_music_path_more_noDefualtItem">
+        <item>Telefonról</item>
+        <item>Egyéni</item>
+        <item>Alapértelmezett csengőhang visszaállítása</item>
+    </string-array>
+    <string-array name="default_folder_names">
+        <item>Movies</item>
+        <item>Music</item>
+        <item>Download</item>
+    </string-array>
+    <string-array name="path_picker">
+        <item>Telefon tárhely</item>
+        <item>SD-kártya</item>
+    </string-array>
+    <string-array name="sort_dialog_items">
+        <item>Név szerint</item>
+        <item>Méret szerint</item>
+        <item>Típus szerint</item>
+        <item>Fordított sorrendben</item>
+    </string-array>
+    <string-array name="encryptable_default_folder_names">
+        <item>Recordings</item>
+        <item>Movies</item>
+        <item>Pictures</item>
+        <item>Download</item>
+        <item>Music</item>
+        <item>Photos</item>
+    </string-array>
+    <string-array name="select_search_path">
+        <item>Telefon tárhely és SD-kártya</item>
+        <item>Telefon tárhely</item>
+        <item>SD kártya</item>
+        <item>Jelenlegi mappa</item>
+        <item>Egyéni</item>
+    </string-array>
+</resources>

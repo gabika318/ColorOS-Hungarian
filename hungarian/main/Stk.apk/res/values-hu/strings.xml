@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SIM eszköztár</string>
+    <string name="menu_end_session">Munkamenet befejezése</string>
+    <string name="help">Súgó</string>
+    <string name="menu_back">Vissza</string>
+    <string name="service_name">Szolgáltatás neve</string>
+    <string name="stk_no_service">Nincs elérhető szolgáltatás</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Mégse</string>
+    <string name="button_yes">Igen</string>
+    <string name="button_no">Nem</string>
+    <string name="alphabet">ABC</string>
+    <string name="digits">Számok (0-9, *, #, +)</string>
+    <string name="default_call_setup_msg">Hívás folyamatban...</string>
+    <string name="stk_app_state">Alkalmazás állapota</string>
+    <string name="enable_app">Engedélyezve</string>
+    <string name="disable_app">Letiltva</string>
+    <string name="stk_dialog_title">SIM-kártya eszközkészlet</string>
+    <string name="default_open_channel_msg">Megnyitja a csatornát?</string>
+    <string name="default_send_data_msg">Adatok küldése</string>
+    <string name="default_receive_data_msg">Adatok fogadása</string>
+    <string name="default_close_channel_msg">A csatorna zárva van.</string>
+    <string name="stk_dialog_accept">Igen</string>
+    <string name="stk_dialog_reject">Nem</string>
+    <string name="no_sim_card_inserted">Helyezze be a SIM kártyát a SIM alkalmazás elindításához</string>
+    <string name="airplane_mode_on">Nem lehet elindítani a SIM alkalmazást bekapcsolt repülőgép üzemmódban</string>
+    <string name="activity_not_found">Nincsenek ehhez a SIM kártyához kapcsolódó, elérhető szolgáltatások!</string>
+    <string name="lable_sim_not_ready">A SIM kártya alkalmazás nincs készen vagy nem támogatott</string>
+</resources>

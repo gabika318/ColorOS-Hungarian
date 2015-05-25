@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Időjárás zárképernyő</string>
+    <string name="unlockname">Időjárás zárképernyő</string>
+    <string name="unlockAuthor">Időjárás zárképernyő</string>
+    <string name="unlockVersion">1.0</string>
+    <string name="unlockDate">2012/05/17</string>
+    <string name="unlockResolution">ALL</string>
+    <string name="discription">Időjárás zárképernyő</string>
+    <string name="degree">°</string>
+    <string name="charging">Töltés:</string>
+    <string name="battery_full">Feltöltve</string>
+    <string name="month_flag">Hónap</string>
+    <string name="month_day_flag">Nap</string>
+    <string name="am">De.</string>
+    <string name="pm">Du.</string>
+    <string name="no_weather">Nincs időjárás adat</string>
+    <string name="noservice">Nincs szolgáltatás</string>
+</resources>

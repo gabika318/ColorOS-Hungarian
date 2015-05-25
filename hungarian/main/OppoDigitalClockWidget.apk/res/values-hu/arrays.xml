@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weeks_day">
+        <item>Vas</item>
+        <item>Hét</item>
+        <item>Ked</item>
+        <item>Sze</item>
+        <item>Csü</item>
+        <item>Pén</item>
+        <item>Szo</item>
+    </string-array>
+</resources>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberOfserverTH">
+        <item>+6626455555</item>
+        <item>026455555</item>
+        <item>1333</item>
+        <item>+6628888888</item>
+        <item>028888888</item>
+        <item>+6622851555</item>
+        <item>022851555</item>
+        <item>+6622991111</item>
+        <item>022991111</item>
+        <item>+6626267777</item>
+        <item>026267777</item>
+        <item>1302</item>
+        <item>1572</item>
+        <item>+6627777777</item>
+        <item>027777777</item>
+        <item>1551</item>
+        <item>+6625550555</item>
+        <item>025550555</item>
+        <item>+6622998000</item>
+        <item>022998000</item>
+        <item>1115</item>
+        <item>+6626803333</item>
+        <item>026803333</item>
+        <item>1770</item>
+        <item>026144000</item>
+        <item>026737733</item>
+        <item>1595</item>
+        <item>1588</item>
+        <item>+6623590000</item>
+        <item>023590000</item>
+        <item>+6626639999</item>
+        <item>026639999</item>
+        <item>1124</item>
+        <item>+6622858888</item>
+        <item>022858888</item>
+        <item>1766</item>
+        <item>1484</item>
+        <item>1557</item>
+        <item>+6622392200</item>
+        <item>022392200</item>
+        <item>1175</item>
+        <item>1331</item>
+        <item>1678</item>
+        <item>1100</item>
+        <item>1322</item>
+        <item>1150</item>
+        <item>1711</item>
+        <item>1112</item>
+        <item>1150</item>
+        <item>+6624153888</item>
+        <item>024153888</item>
+    </string-array>
+    <string-array name="areaOfnumberTH">
+        <item>Bangkok Bank</item>
+        <item>Bangkok Bank</item>
+        <item>Bangkok Bank</item>
+        <item>KASIKORN BANK</item>
+        <item>KASIKORN BANK</item>
+        <item>UOB Bank</item>
+        <item>UOB Bank</item>
+        <item>TMB Bank</item>
+        <item>TMB Bank</item>
+        <item>CIMB Bank</item>
+        <item>CIMB Bank</item>
+        <item>Islamic Bank</item>
+        <item>Bank Of Ayudhya</item>
+        <item>Siam Commercial Bank</item>
+        <item>Siam Commercial Bank</item>
+        <item>Krung Thai Bank</item>
+        <item>Bank for Agriculture and Agricultural Cooperatives</item>
+        <item>Bank for Agriculture and Agricultural Cooperatives</item>
+        <item>Government Savings Bank</item>
+        <item>Government Savings Bank</item>
+        <item>Government Savings Bank</item>
+        <item>Kiatnakin Bank</item>
+        <item>Kiatnakin Bank</item>
+        <item>Thanachart Bank</item>
+        <item>HSBC</item>
+        <item>HSBC</item>
+        <item>Standard Chartered Bank(Thailand)</item>
+        <item>City Bank</item>
+        <item>LH Bank</item>
+        <item>LH Bank</item>
+        <item>ICBC bank</item>
+        <item>ICBC bank</item>
+        <item>Thai Life Insurance</item>
+        <item>Bangkok Insurance</item>
+        <item>Bangkok Insurance</item>
+        <item>Muang Thai Life Assurance</item>
+        <item>Muang Thai Insurance</item>
+        <item>Viriyah Insurance</item>
+        <item>Dhipaya Insurance</item>
+        <item>Dhipaya Insurance</item>
+        <item>AIS</item>
+        <item>TRUE MOVE</item>
+        <item>DTAC</item>
+        <item>TOT</item>
+        <item>CAT</item>
+        <item>KFC</item>
+        <item>"McDonald's"</item>
+        <item>Pizza</item>
+        <item>Pizza Hut</item>
+        <item>OPPO Customer service</item>
+        <item>OPPO Customer service</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices_wcdma">
+        <item>GSM/WCDMA (Auto)</item>
+        <item>Csak WCDMA</item>
+        <item>Csak GSM</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices_tdlte">
+        <item>TD-SCDMA/GSM/LTE (Auto)</item>
+        <item>Csak TD-LTE</item>
+        <item>Csak TD-SCDMA</item>
+        <item>Csak GSM</item>
+    </string-array>
+    <string-array name="intelligent_dial">
+        <item>Smart pinyin dial</item>
+        <item>Smart stroke dial</item>
+    </string-array>
+    <string-array name="oppo_call_dial_animation_summary">
+        <item>Alapértelmezett</item>
+        <item>Rajzoló</item>
+    </string-array>
+    <string-array name="oppo_call_dial_tone_summary">
+        <item>Alapértelmezett</item>
+        <item>Zongora</item>
+        <item>Gitár</item>
+        <item>Marimba</item>
+        <item>Elektromos</item>
+    </string-array>
+    <string-array name="oppo_call_display_summary">
+        <item>Nagy profilkép preferált</item>
+        <item>Időjárás preferált</item>
+        <item>Csak kis profilkép</item>
+    </string-array>
+    <string-array name="oppo_call_display_summary_delete_weather">
+        <item>Nagy profilkép preferált</item>
+        <item>Csak kis profilképet jelenítsen meg</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (automatikus)</item>
+        <item>Csak WCDMA</item>
+        <item>Csak GSM</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_values">
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+</resources>

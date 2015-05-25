@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">Biztos törölné szeretné a kiválasztott fájlokat?</item>
+        <item quantity="one">Biztos törölné szeretné a kiválasztott fájlt?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d kiválasztva</item>
+        <item quantity="zero">%1$d kiválasztva</item>
+        <item quantity="one">%1$d kiválasztva</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">%1$d kiválasztva</item>
+        <item quantity="zero">%1$d kiválasztva</item>
+        <item quantity="one">%1$d kiválasztva</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">%1$d kiválasztva</item>
+        <item quantity="zero">%1$d kiválasztva</item>
+        <item quantity="one">%1$d kiválasztva</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">Albumok letöltése offline hallgatáshoz.</item>
+        <item quantity="one">Az album elérhető lesz offline módban is.</item>
+    </plurals>
+    <plurals name="number_of_items_in_slot">
+        <item quantity="other">%1$d képek</item>
+        <item quantity="one">1 kép</item>
+    </plurals>
+    <plurals name="number_of_folders_in_slot">
+        <item quantity="other">%1$d mappák</item>
+        <item quantity="one">1 mappa</item>
+    </plurals>
+    <plurals name="albumset_count_string">
+        <item quantity="other">%1$d képek</item>
+        <item quantity="one">1 kép</item>
+    </plurals>
+</resources>

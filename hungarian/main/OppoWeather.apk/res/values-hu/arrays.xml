@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="go_wind_dir">
+        <item>N/A</item>
+        <item>Nincs szél</item>
+        <item>É</item>
+        <item>ÉÉK</item>
+        <item>ÉK</item>
+        <item>KÉK</item>
+        <item>K</item>
+        <item>KDK</item>
+        <item>DK</item>
+        <item>DDK</item>
+        <item>D</item>
+        <item>DDNy</item>
+        <item>DNy</item>
+        <item>NyDNy</item>
+        <item>Ny</item>
+        <item>NyÉNy</item>
+        <item>ÉNy</item>
+        <item>ÉÉNy</item>
+        <item>Változó szelek</item>
+    </string-array>
+    <string-array name="go_weather_type">
+        <item>N/A</item>
+        <item>Tiszta</item>
+        <item>Felhős</item>
+        <item>Borult</item>
+        <item>Hó</item>
+        <item>Köd</item>
+        <item>Eső</item>
+        <item>Vihar</item>
+    </string-array>
+    <string-array name="pic_style">
+        <item>OPPO által személyreszabott</item>
+        <item>HD képek</item>
+    </string-array>
+    <string-array name="chineseten">
+        <item>初</item>
+        <item>十</item>
+        <item>廿</item>
+        <item>三</item>
+    </string-array>
+    <string-array name="chinesenumber">
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+        <item>七</item>
+        <item>八</item>
+        <item>九</item>
+        <item>十</item>
+        <item>十一</item>
+        <item>十二</item>
+    </string-array>
+    <string-array name="chinese_month">
+        <item>正月</item>
+        <item>二月</item>
+        <item>三月</item>
+        <item>四月</item>
+        <item>五月</item>
+        <item>六月</item>
+        <item>七月</item>
+        <item>八月</item>
+        <item>九月</item>
+        <item>十月</item>
+        <item>十一月</item>
+        <item>十二月</item>
+    </string-array>
+    <string-array name="chineseanimals">
+        <item>鼠</item>
+        <item>牛</item>
+        <item>虎</item>
+        <item>兔</item>
+        <item>龙</item>
+        <item>蛇</item>
+        <item>马</item>
+        <item>羊</item>
+        <item>猴</item>
+        <item>鸡</item>
+        <item>狗</item>
+        <item>猪</item>
+    </string-array>
+    <string-array name="chinesegan">
+        <item>甲</item>
+        <item>乙</item>
+        <item>丙</item>
+        <item>丁</item>
+        <item>戊</item>
+        <item>己</item>
+        <item>庚</item>
+        <item>辛</item>
+        <item>壬</item>
+        <item>癸</item>
+    </string-array>
+    <string-array name="chinesezhi">
+        <item>子</item>
+        <item>丑</item>
+        <item>寅</item>
+        <item>卯</item>
+        <item>辰</item>
+        <item>巳</item>
+        <item>午</item>
+        <item>未</item>
+        <item>申</item>
+        <item>酉</item>
+        <item>戌</item>
+        <item>亥</item>
+    </string-array>
+    <string-array name="chinese_month_number">
+        <item>月</item>
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+        <item>七</item>
+        <item>八</item>
+        <item>九</item>
+        <item>十</item>
+        <item>十一</item>
+        <item>十二</item>
+    </string-array>
+    <string-array name="chinese_day_number">
+        <item>初</item>
+        <item>十</item>
+        <item>廿</item>
+        <item>三</item>
+    </string-array>
+    <string-array name="chinese_leap_month">
+        <item>闰</item>
+        <item>月</item>
+    </string-array>
+    <string-array name="chinese_jieqi">
+        <item>小寒</item>
+        <item>大寒</item>
+        <item>立春</item>
+        <item>雨水</item>
+        <item>惊蛰</item>
+        <item>春分</item>
+        <item>清明</item>
+        <item>谷雨</item>
+        <item>立夏</item>
+        <item>小满</item>
+        <item>芒种</item>
+        <item>夏至</item>
+        <item>小暑</item>
+        <item>大暑</item>
+        <item>立秋</item>
+        <item>处暑</item>
+        <item>白露</item>
+        <item>秋分</item>
+        <item>寒露</item>
+        <item>霜降</item>
+        <item>立冬</item>
+        <item>小雪</item>
+        <item>大雪</item>
+        <item>冬至</item>
+    </string-array>
+    <string-array name="chinese_cal_anni">
+        <item>"New Year's Day"</item>
+        <item>"Valentine's Day"</item>
+        <item>"Women's Day"</item>
+        <item>Arbor Day</item>
+        <item>April Fools Day</item>
+        <item>May Day</item>
+        <item>Chinese Youth Day</item>
+        <item>"Nurses' Day"</item>
+        <item>"Children's Day"</item>
+        <item>"CPC Founding Day "</item>
+        <item>Army Day</item>
+        <item>"Teacher's Day"</item>
+        <item>National Day</item>
+        <item>Christmas</item>
+    </string-array>
+    <string-array name="chinese_lunar_anni">
+        <item>"New Year's Eve"</item>
+        <item>Spring Festival</item>
+        <item>Lantern Festival</item>
+        <item>Dragon Boat Festival</item>
+        <item>Magpie Festival</item>
+        <item>Spirit Festival</item>
+        <item>Mid-Autumn Festival</item>
+        <item>Double-ninth Day</item>
+        <item>Laba Festival</item>
+        <item>Lean year</item>
+    </string-array>
+    <string-array name="chinese_other_cal_anni">
+        <item>Anyák napja</item>
+        <item>Apák napja</item>
+        <item>Hálaadás</item>
+    </string-array>
+    <string-array name="dev_city">
+        <item>塔城地区</item>
+        <item>呼和浩特市</item>
+        <item>包头市</item>
+        <item>赤峰市</item>
+        <item>通辽市</item>
+        <item>鄂尔多斯市</item>
+        <item>莫力达瓦达斡尔族自治旗</item>
+        <item>呼伦贝尔市</item>
+        <item>巴彦淖尔市</item>
+        <item>乌兰察布市</item>
+        <item>兴安盟</item>
+        <item>锡林郭勒盟</item>
+        <item>阿拉善盟</item>
+    </string-array>
+    <string-array name="dev_province">
+        <item>重庆</item>
+        <item>云南</item>
+        <item>新疆</item>
+        <item>西藏</item>
+        <item>四川</item>
+        <item>青海</item>
+        <item>内蒙古</item>
+        <item>吉林</item>
+        <item>黑龙江</item>
+    </string-array>
+    <string-array name="all_province">
+        <item>安徽</item>
+        <item>北京</item>
+        <item>福建</item>
+        <item>甘肃</item>
+        <item>广东</item>
+        <item>广西</item>
+        <item>贵州</item>
+        <item>海南</item>
+        <item>河北</item>
+        <item>河南</item>
+        <item>黑龙江</item>
+        <item>湖北</item>
+        <item>湖南</item>
+        <item>吉林</item>
+        <item>江苏</item>
+        <item>江西</item>
+        <item>辽宁</item>
+        <item>内蒙古</item>
+        <item>宁夏</item>
+        <item>青海</item>
+        <item>山东</item>
+        <item>山西</item>
+        <item>陕西</item>
+        <item>上海</item>
+        <item>四川</item>
+        <item>天津</item>
+        <item>西藏</item>
+        <item>新疆</item>
+        <item>云南</item>
+        <item>浙江</item>
+        <item>重庆</item>
+        <item>香港</item>
+        <item>澳门</item>
+        <item>台湾</item>
+    </string-array>
+    <string-array name="other_show_items">
+        <item>Szél</item>
+        <item>Naptár</item>
+    </string-array>
+    <string-array name="clothing_suggestion_title">
+        <item>Rövidujjú</item>
+        <item>Rövidujjú</item>
+        <item>Ing</item>
+        <item>Kabát</item>
+        <item>Kabát</item>
+        <item>Pullóver</item>
+        <item>Vastag kabát</item>
+        <item>Vastag kabát</item>
+    </string-array>
+    <string-array name="clothing_suggestion_description">
+        <item>It is recommended to wear cool summer clothing like blouse, skirt,shorts,thin T-shirts,open-necked short-sleeved cotton shirt and so on in the hot weather.</item>
+        <item>"If the weather is very hot, it is recommended to wear summer clothing like skirt,shorts,T-shirts etc. For the frail elderly it's best to wear long-sleeved shirt and pants."</item>
+        <item>"When the weather is cool, it is recommended to wear long-sleeved shirt and pants and other spring and autumn transition clothes. For the frail elderly it's best to wear knit long-sleeved shirt, vest and trousers."</item>
+        <item>"It is recommended to wear spring and autumn transition outfit. For the old and infirm, it's best to wear suits. The temperature difference between day and night is large, please pay attention to change clothes appropriately."</item>
+        <item>"When it is very cool, it is recommended to wear spring and autumn clothes like bodysuit and thin sweater etc. For the infirm, it's best to wear bodysuit and sweater. The temperature difference between day and night is large, please pay attention to change clothes appropriately."</item>
+        <item>"If it is cold, it is recommended to wear spring and autumn clothes like thick coat and sweater etc. For the infirm it's best to wear coat and loose sweater. The temperature difference between day and night is large, please pay attention to change clothes appropriately."</item>
+        <item>"It is cold outside, it is recommended to wear winter clothes like cotton clothes, jacket and sweater etc. For the infirm it's best to wear thick cotton clothes or winter coat."</item>
+        <item>When it is very cold, it is recommended to wear winter clothes like feather coat, fur coat and thick sweater etc. For the old and infirm must pay particular attention to keep warm.</item>
+    </string-array>
+    <string-array name="uv_suggestion_title">
+        <item>Nem szükséges</item>
+        <item>SPF12~15</item>
+        <item>SPF15+</item>
+        <item>SPF20+</item>
+        <item>SPF30+</item>
+    </string-array>
+    <string-array name="uv_suggestion_description">
+        <item>The UV level is low, no special protection is needed. If you are outdoor for a long time, skin care product with SPF between 8 to 12 is better.</item>
+        <item>The UV level is low, no special protection is needed. If you are outdoor for a long time, skin care product with SPF between 12 to 15,PA+ is better.</item>
+        <item>"With the medium UV level outside, it's suggested to use skin care product with SPF above 15,PA+, wear hat and sun glasses."</item>
+        <item>"If it is strong UV level, you should avoid exposing under the sun, and it's suggested to use skin care product with SPF around 20,PA++."</item>
+        <item>"If it is very strong UV level, you should avoid exposing under the sun, and it's suggested to use skin care product with SPF above 30,PA++."</item>
+    </string-array>
+    <string-array name="abbr_week_labels">
+        <item>Vas</item>
+        <item>Hét</item>
+        <item>Ked</item>
+        <item>Sze</item>
+        <item>Csü</item>
+        <item>Pén</item>
+        <item>Szo</item>
+    </string-array>
+    <string-array name="update_frequencys">
+        <item>Minden órában</item>
+        <item>Minden 2 órában</item>
+        <item>Minden 4 órában</item>
+        <item>Minden 6 órában</item>
+        <item>Minden 12 órában</item>
+    </string-array>
+    <string-array name="warn_weather_type">
+        <item>Blizzard Blue</item>
+        <item>Blizzard orange</item>
+        <item>Blizzard red</item>
+        <item>Blizzard yellow</item>
+        <item>Rainstorm blue</item>
+        <item>Rainstorm orange</item>
+        <item>Rainstorm red</item>
+        <item>Rainstorm yellow</item>
+        <item>Hail blue</item>
+        <item>Hail orange</item>
+        <item>Hail red</item>
+        <item>Hail yellow</item>
+        <item>Gale blue</item>
+        <item>Gale orange</item>
+        <item>Gale red</item>
+        <item>Gale yellow</item>
+        <item>Fog blue</item>
+        <item>Fog orange</item>
+        <item>Fog red</item>
+        <item>Fog yellow</item>
+        <item>Road frozen blue</item>
+        <item>Road frozen orange</item>
+        <item>Road frozen red</item>
+        <item>Road frozen yellow</item>
+        <item>Arid blue</item>
+        <item>Arid orange</item>
+        <item>Arid red</item>
+        <item>Arid yellow</item>
+        <item>High temperature blue</item>
+        <item>High temperature orange</item>
+        <item>High temperature red</item>
+        <item>High temperature yellow</item>
+        <item>Cold blue</item>
+        <item>Cold orange</item>
+        <item>Cold red</item>
+        <item>Cold yellow</item>
+        <item>Lightning blue</item>
+        <item>Lightning orange</item>
+        <item>Lightning red</item>
+        <item>Lightning yellow</item>
+        <item>Haze blue</item>
+        <item>Haze orange</item>
+        <item>Haze red</item>
+        <item>Haze yellow</item>
+        <item>Sandstorm blue</item>
+        <item>Sandstorm orange</item>
+        <item>Sandstorm red</item>
+        <item>Sandstorm yellow</item>
+        <item>Frost blue</item>
+        <item>Frost orange</item>
+        <item>Frost red</item>
+        <item>Frost yellow</item>
+        <item>Typhoon blue</item>
+        <item>Typhoon orange</item>
+        <item>Typhoon red</item>
+        <item>Typhoon yellow</item>
+    </string-array>
+    <string-array name="base_wind_direction">
+        <item>Nincs folyamatos szél</item>
+        <item>K</item>
+        <item>Ny</item>
+        <item>D</item>
+        <item>É</item>
+        <item>DK</item>
+        <item>ÉK</item>
+        <item>DNy</item>
+        <item>ÉNy</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Nincs folyamatos szél</item>
+        <item>K</item>
+        <item>Ny</item>
+        <item>D</item>
+        <item>É</item>
+        <item>DK</item>
+        <item>ÉK</item>
+        <item>DNy</item>
+        <item>ÉNy</item>
+    </string-array>
+    <string-array name="base_uv_description">
+        <item>Nagyon Gyenge</item>
+        <item>Leggyengébb</item>
+        <item>Gyenge</item>
+        <item>Közepes</item>
+        <item>Erős</item>
+        <item>Legerősebb</item>
+        <item>Nagyon erős</item>
+    </string-array>
+    <string-array name="uv_description">
+        <item>Nagyon Gyenge</item>
+        <item>Leggyengébb</item>
+        <item>Gyenge</item>
+        <item>Közepes</item>
+        <item>Erős</item>
+        <item>Legerősebb</item>
+        <item>Nagyon erős</item>
+    </string-array>
+    <string-array name="weather_show_type_items">
+        <item>Videó (Látványosabb)</item>
+        <item>Kép (gördülékenyebb)</item>
+    </string-array>
+</resources>

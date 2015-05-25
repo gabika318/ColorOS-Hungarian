@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OPPO vevőszolgálat</string>
+    <string name="oppo_after_service_title">OPPO vevőszolgálat</string>
+    <string name="afterservice_hotline_title">Forródrót</string>
+    <string name="afterservice_address_title">Cím</string>
+    <string name="afterservice_email_title">E-mail</string>
+    <string name="afterservice_website_title">Weboldal</string>
+    <string name="help_dialog_title">Súgó</string>
+    <string name="help_dialog_msg">A legjobb szolgáltatás érdekében az OPPO telefonos szolgáltatás folyamatosan bővül. Kérjük látogassa meg a hivatalos weboldalunkat vagy hívja az egész országban elérhető szolgáltatás forródrótját a legfrissebb helyzetjelentésekért.</string>
+    <string name="arranty_card">Elektromos garancia kártya</string>
+</resources>

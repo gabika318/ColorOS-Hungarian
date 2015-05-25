@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zenetár</string>
+    <string name="unknown_music">0 dal</string>
+    <string name="unknown_artist">Ismeretlen előadó</string>
+</resources>

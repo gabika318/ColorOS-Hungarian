@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HolidayModeActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Csendes órák</string>
+    <string name="holiday_mode_summary">A csendes órák bekapcsolása után a bejövő hívások el lesznek utasítva és az üzenetek le lesznek némítva, kivéve ha a fehérlistán szereplő névjegyektől származnak. Egy ikon jelenik meg az értesítő sávban, ha az üzemmód be van kapcsolva.</string>
+    <string name="holiday_mode_time_set">Érvényes idő</string>
+    <string name="holiday_mode_time_set_always">Mindig</string>
+    <string name="holiday_mode_time_set_start">Indítás</string>
+    <string name="holiday_mode_time_set_end">Befejezés</string>
+    <string name="holiday_mode_contacts">Csatlakozás engedélyezése</string>
+    <string name="holiday_mode_contacts_none">Senki</string>
+    <string name="holiday_mode_contacts_my_collection">Gyakori kapcsolattartók</string>
+    <string name="holiday_mode_contacts_all">Minden elmentett névjegy</string>
+    <string name="holiday_mode_contacts_user_defined">Egyéni</string>
+    <string name="holiday_mode_contacts_list">Engedélyezett névjegyek listája</string>
+    <string name="holiday_mode_contacts_selected_list">Névjegy kijelölése</string>
+    <string name="holiday_mode_menu_add">Hozzáadás</string>
+    <string name="holiday_mode_menu_edit">Szerkesztés</string>
+    <string name="holiday_mode_menu_delete">Eltávolítás</string>
+    <string name="holiday_mode_menu_cancel">Mégse</string>
+    <string name="holiday_mode_menu_option_item">Lehetőségek</string>
+    <string name="holiday_mode_not_mark_contacts_string">Kérjük válasszon ki privát névjegyeket a törléshez</string>
+    <string name="holiday_mode_delete_contacts_item_warning">Eltávolítja?</string>
+    <string name="holiday_mode_delete_succeed_string">Elvávolítva</string>
+    <string name="holiday_mode_name_is_null_string">Ismeretlen név</string>
+    <string name="holiday_mode_menu_search">Keresés</string>
+    <string name="holiday_mode_oppo_option_selectall">Ismeretlen név</string>
+    <string name="holiday_mode_morning">De.</string>
+    <string name="holiday_mode_afternoon">Du.</string>
+    <string name="holiday_mode_directions_for_use">Utasítások</string>
+    <string name="holiday_mode_no_cantacts">Nincs egyéni névjegy hozzáadva</string>
+    <string name="holiday_mode_start_end_time_same">Kezdő és záró időpont nem egyezhet</string>
+    <string name="attention">Tippek</string>
+    <string name="OK">Confirm</string>
+    <string name="call_mode_setting_title">Folyamatos hívás emlékeztető</string>
+    <string name="call_mode_setting_summary">A néma üzemmód ki lesz kapcsolva, ha ugyanaz a névjegy három percen belül háromszor telefonál.</string>
+    <string name="holiday_mode_main_state_switch_tip_on">A csendes órák üzemmód be van kapcsolva, érintsen a fenti ikonra a kikapcsoláshoz</string>
+    <string name="holiday_mode_main_state_switch_tip_off">A csendes órák üzemmód ki van kapcsolva, érintsen a fenti ikonra a bekapcsoláshoz</string>
+    <string name="contacts_set_category">Speciális névjegyek</string>
+    <string name="remind_mode_set_category">Speciális eset emlékeztető</string>
+    <string name="time_set_category">Érvényes ez alatt az idő alatt</string>
+    <string name="holiday_mode_notification_title">Bekapcsolták a „Csendes” módot.</string>
+    <string name="holiday_mode_notification_text">Üzenetek némítása és bejövő telefonhívások elutasítása</string>
+</resources>

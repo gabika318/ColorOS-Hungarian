@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Iránytű</string>
+    <string name="North">North</string>
+    <string name="East">East</string>
+    <string name="South">South</string>
+    <string name="West">West</string>
+    <string name="Judge">Kalibrálás</string>
+    <string name="Help">Súgó</string>
+    <string name="NorthEast">Északkelet</string>
+    <string name="EastNorth">Északkelet</string>
+    <string name="EastSouth">Délkelet</string>
+    <string name="SouthEast">Délkelet</string>
+    <string name="SouthWest">Délnyugat</string>
+    <string name="WestSouth">Délnyugat</string>
+    <string name="WestNorth">Északnyugat</string>
+    <string name="NorthWest">Északnyugat</string>
+    <string name="menu_Calibration">Kalibrálás</string>
+    <string name="disturb">Iránytű zavarás</string>
+    <string name="hint_calibration">Tartsa távol zavarástól és mozgassa a telefont 8-as formában az iránytű újrakalibrálásához</string>
+    <string name="adjust">Az iránytű újrakalibrálásához mozgassa a telefont 8-as formában.</string>
+    <string name="menu_Help">Súgó</string>
+    <string name="Calibration_Instructions">"Amikor az iránytű pontatlanná válik egy üzenet fog felugrani ami felhívja az újrakalibráláshoz. Az iránytű újrakalibrálásához mozgassa a telefont 8-as formában.
+
+"<b>Az iránytű pontossága jelenleg %d, kérjük kalibráljon újra most.</b></string>
+    <string name="Calibration_Top">"Amikor az iránytű pontatlanná válik egy üzenet fog felugrani ami felhívja az újrakalibráláshoz. Az iránytű újrakalibrálásához mozgassa a telefont 8-as formában.
+
+"<b>Jelenleg pontos az iránytű.</b></string>
+    <string name="Help_Instructions">Az iránytű teteje jelzi, hogy ön melyik irányba tartja azt. A tű észak felé mutat. Amikor az iránytű pontatlanná válik egy üzenet fog felugrani ami felhívja az újrakalibráláshoz. Az iránytű újrakalibrálásához mozgassa a telefont 8-as formában.</string>
+    <string name="Close">Bezárás</string>
+    <string name="JudgeBeforeUse">Kérjük az első használat előtt kalibrálja az iránytűt</string>
+    <string name="longitude_east">Hosszúság</string>
+    <string name="calibrate">Kalibrálás</string>
+    <string name="latitude_north">Szélesség</string>
+    <string name="gps_no_open">GPS bekapcsolása</string>
+    <string name="comprass_interference">Iránytű zavarás</string>
+    <string name="comprass_interference_detail">Tartsa távol zavarástól és mozgassa a telefont 8-as formában az iránytű újrakalibrálásához</string>
+    <string name="north">Észak</string>
+    <string name="east">Kelet</string>
+    <string name="south">Dél</string>
+    <string name="west">Nyugat</string>
+    <string name="north_east">Északkelet</string>
+    <string name="south_east">Délkelet</string>
+    <string name="south_west">Délnyugat</string>
+    <string name="north_west">Északnyugat</string>
+    <string name="cta_test_dialog_title">Tippek</string>
+    <string name="cta_test_dialog_content">Ez a szoftver követni szeretné a pontos GPS helyzetét.</string>
+    <string name="cta_test_dialog_title_reject">Az „Iránytű” precíz GPS helykövetése letiltva.</string>
+    <string name="cta_test_dialog_content_reject">Engedélyezi a precíz GPR helykövetést ennek az alkalmazásnak?</string>
+</resources>

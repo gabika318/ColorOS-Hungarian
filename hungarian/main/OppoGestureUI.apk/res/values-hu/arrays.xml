@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gesture_description_tag">
+        <item>Dupla koppintás</item>
+        <item>Lefelé nyíl</item>
+        <item>Felfelé nyíl</item>
+        <item>Jobbra nyíl</item>
+        <item>Balra nyíl</item>
+        <item>Kör</item>
+        <item>Két ujjal lefelé csúsztatás</item>
+        <item>Csúsztasson jobbra</item>
+        <item>Csúsztasson balra</item>
+        <item>Csúsztasson le</item>
+        <item>Csúsztasson fel</item>
+        <item>M</item>
+        <item>W</item>
+    </string-array>
+    <string-array name="sky_gesture_description_tag">
+        <item>Z</item>
+        <item>V</item>
+        <item>Kör</item>
+        <item>M</item>
+        <item>W</item>
+        <item>Jobbra mutató nyíl</item>
+        <item>Balra mutató nyíl</item>
+    </string-array>
+    <string-array name="user_defined_double_press_home_action_array">
+        <item>Feladatkezelő</item>
+        <item>Képernyő zárolása</item>
+        <item>Nincs</item>
+    </string-array>
+    <string-array name="url_tag">
+        <item>Mobil olvasás</item>
+        <item>Easou keresés</item>
+        <item>Tmall</item>
+        <item>Baidu</item>
+        <item>Netease</item>
+        <item>Sina News</item>
+        <item>Sohu</item>
+        <item>Mobile phone Phoenix</item>
+        <item>3G</item>
+        <item>Taobao</item>
+        <item>Lottó</item>
+        <item>Renren</item>
+        <item>Tencent</item>
+        <item>Qunar</item>
+        <item>58 City</item>
+        <item>Youku</item>
+        <item>MeiTuan</item>
+    </string-array>
+    <string-array name="url_info">
+        <item>http://wap.cmread.com</item>
+        <item>http://wap.easou.com</item>
+        <item>http://m.tmall.com</item>
+        <item>http://m.baidu.com</item>
+        <item>http://3g.163.com</item>
+        <item>http://3g.sina.com.cn</item>
+        <item>http://m.sohu.com</item>
+        <item>http://i.ifeng.com/</item>
+        <item>http://xuan.3g.cn</item>
+        <item>http://r.m.taobao.com</item>
+        <item>http://wap.zch168.com</item>
+        <item>http://m.renren.com</item>
+        <item>http://3g.qq.com</item>
+        <item>http://wap.qunar.com</item>
+        <item>http://wap.58.com</item>
+        <item>http://3g.youku.com/smartphone/</item>
+        <item>http://i.meituan.com</item>
+    </string-array>
+</resources>

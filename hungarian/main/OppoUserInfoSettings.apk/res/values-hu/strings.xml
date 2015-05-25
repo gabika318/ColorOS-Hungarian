@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="userInfoActivity_label">Tulajdonosi adatok</string>
+    <string name="change_portrait">Profilkép cserélése</string>
+    <string name="showing_on_screen_checkbox_content">Tulajdonosi információ megjelenítése a képernyőzáron</string>
+    <string name="userPortraitActivity_label">A felhasználó profilképe</string>
+    <string name="history_portrait">Használatban van</string>
+    <string name="attachToContact">Kép hozzáadása</string>
+    <string name="take_photo">Kép rögzítése</string>
+    <string name="pick_photo">Választás a képekből</string>
+    <string name="lock_show_head">Profilkép mutatása a zárképernyőn</string>
+</resources>

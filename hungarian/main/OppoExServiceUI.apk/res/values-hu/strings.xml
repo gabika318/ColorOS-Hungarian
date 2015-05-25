@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="oppo_screen_shot_up_text">A képernyő 1/3-át csúsztasse fel</string>
+    <string name="oppo_screen_shot_down_text">A képernyő 1/3-át csúsztasse le</string>
+    <string name="oppo_volume_media">Média hangereje</string>
+    <string name="oppo_volume_system">Rendszer hangereje</string>
+    <string name="oppo_volume_ringtone">Csengés hangereje</string>
+    <string name="oppo_volume_call">Hívás hangereje</string>
+    <string name="oppo_screen_drag_tips_text">Nyomja le és tartsa lenyomva a lebegő műveletekhez</string>
+    <string name="oppo_screen_drag_tips_text_down">(Érintsen a Home, vagy Vissza gombra a lebegésből történő kilépéshez)</string>
+</resources>

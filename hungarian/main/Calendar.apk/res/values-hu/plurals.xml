@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">%d perccel korábban</item>
+        <item quantity="one">1 perccel korábban</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">%d perce</item>
+        <item quantity="one">1 perce</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d órája</item>
+        <item quantity="one">1 órája</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">%d nappal előre</item>
+        <item quantity="one">1 nappal előre</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">%d. Hét</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+1</item>
+    </plurals>
+</resources>
